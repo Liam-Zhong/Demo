@@ -17,9 +17,10 @@ title = "承霖的部落格"
 [params]
   color = 'linen'
 
-  twitter = 'nanxiaobei'
-  github = 'nanxiaobei'
+  twitter = 'ShuoLian62'
+  github = 'Liam-Zhong'
   instagram = 'nan.xiaobei'
+  zhihu = 'zhongcl-jiang'
 
   avatar = 'chlzhong@outlook.com'
   name = 'Liam'
