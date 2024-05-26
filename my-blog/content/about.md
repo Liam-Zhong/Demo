@@ -12,7 +12,7 @@ author = "lee.so"
 ## <h2 align = "center">写作原则</h2> 
 -----
 1. 不定期记日记。在22年八月里决心要写日记，写了不过几个字就晒网去了。
-2. 文字是对[偶像]((https://baike.baidu.com/item/废名/3243892))风格的拙劣模仿。
+2. 文字是对[偶像](https://baike.baidu.com/item/废名/3243892)风格的拙劣模仿。
 3. 在知乎想法是很好的Markdown插图方式。
 
 
