@@ -36,4 +36,3 @@ author = "lee.so"
 -----
 - [Python](https://www.python.org/)：人生苦短...
 - [Hugo](https://gohugo.io/)：静态网站生成器
-
