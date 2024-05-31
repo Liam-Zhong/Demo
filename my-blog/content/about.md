@@ -24,10 +24,18 @@ author = "liam"
 **排名不分先后**
 
 - 我爸：他这辈子真的很不容易
+
 - [张鑫](https://www.zhihu.com/people/xian-chi-70-72)：一个苦人，我这里的好友
+
 - 程云龙：好老师
+
+- [刘星](https://b23.tv/mz9muoW)：引路人,powerful
+
 - XX:对爱情的祛魅
+
 - 赵姜涵：好哥哥！
+
+  
 
 未完待续。
 
