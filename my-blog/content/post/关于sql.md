@@ -3,6 +3,7 @@ title = '关于sql'
 date = 2024-05-30T16:54:25+08:00
 math = true                                 # enable KaTeX math typesetting for a specific page
 draft = false
+comments = true
 
 +++
 
