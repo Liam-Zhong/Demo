@@ -1,6 +1,1 @@
-[submodule "my-blog/themes/hugo-bearblog"]
-	path = my-blog/themes/hugo-bearblog
-	url = https://github.com/janraasch/hugo-bearblog.git
-[submodule "my-blog/themes/paper"]
-	path = my-blog/themes/paper
-	url = https://github.com/nanxiaobei/hugo-paper
+
