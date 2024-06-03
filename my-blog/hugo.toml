@@ -82,4 +82,5 @@ series = "series"
 
 [params.cusdis]
   enable = true
-  appId = "6c8fd496-b686-4bb1-aac6-8276c867aa7a" # 把 YOUR_APP_ID 替换为你的 data-app-id
+  appId = "6c8fd496-b686-4bb1-aac6-8276c867aa7a" 
+  cusdis_host = "https://cusdis.com"
