@@ -5,7 +5,7 @@
     <link>https://liam-zhong.github.io/</link>
       <atom:link href="https://liam-zhong.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>承霖的部落格</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh</language><copyright>Copyright © 2004–2024, Steve Francia and the lee.so; all rights reserved.</copyright><lastBuildDate>Tue, 04 Jun 2024 18:29:48 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh</language><copyright>Copyright © 2004–2024, Steve Francia and the lee.so; all rights reserved.</copyright><lastBuildDate>Tue, 04 Jun 2024 18:29:48 +0800</lastBuildDate>  
     <item>
       <title>Soulsan</title>
       <link>https://liam-zhong.github.io/post/soulsan/</link>
@@ -55,7 +55,7 @@
 &lt;p&gt;从三峡溪涧伸起的几棵老白果树上还未脱尽的叶子，映照得失去了颜色，只有灯光照着的走廊和屋檐才实实在在。&lt;/p&gt;
 </description>
     </item>
-    
+      
     <item>
       <title>图图呢</title>
       <link>https://liam-zhong.github.io/post/%E5%9B%BE%E5%9B%BE%E5%91%A2/</link>
@@ -98,7 +98,7 @@
 &lt;/blockquote&gt;
 </description>
     </item>
-    
+      
     <item>
       <title>报告未遂</title>
       <link>https://liam-zhong.github.io/post/%E6%8A%A5%E5%91%8A%E6%9C%AA%E9%81%82/</link>
@@ -121,7 +121,7 @@
 &lt;p&gt;P.S. 最后啰嗦一句，今天题目叫报告未遂，所以我的作业&amp;hellip;&amp;hellip;算了它是独立变量&lt;/p&gt;
 </description>
     </item>
-    
+      
     <item>
       <title>Statistic</title>
       <link>https://liam-zhong.github.io/post/statistic/</link>
@@ -222,7 +222,7 @@
 &lt;/table&gt;
 </description>
     </item>
-    
+      
     <item>
       <title>狐狸和猫</title>
       <link>https://liam-zhong.github.io/post/%E7%8B%90%E7%8B%B8%E5%92%8C%E7%8C%AB/</link>
@@ -273,7 +273,7 @@
 &lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/80/v2-0e23f682f2b929a5b8a1f075ed068602_1440w.webp&#34; alt=&#34;狐狸和猫&#34;&gt;&lt;/p&gt;
 </description>
     </item>
-    
+      
     <item>
       <title>关于sql</title>
       <link>https://liam-zhong.github.io/post/%E5%85%B3%E4%BA%8Esql/</link>
@@ -356,7 +356,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;在Windows11、Power Designer 16中导出上述sql文件时，会将一些键值打上引号，继而引发sql命令行操作报错，去掉之后正常。&lt;/p&gt;
 </description>
     </item>
-    
+      
     <item>
       <title>我们到底学到了什么？</title>
       <link>https://liam-zhong.github.io/post/%E6%88%91%E4%BB%AC%E5%88%B0%E5%BA%95%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88/</link>
@@ -367,7 +367,7 @@
 &lt;p&gt;拚命狂赶了两年（？），但是一点也不值得高兴……&lt;/p&gt;
 </description>
     </item>
-    
+      
     <item>
       <title>江阿姨</title>
       <link>https://liam-zhong.github.io/post/%E6%B1%9F%E9%98%BF%E5%A7%A8/</link>
@@ -423,7 +423,7 @@
 &lt;p&gt;未完待续。&lt;/p&gt;
 </description>
     </item>
-    
+      
     <item>
       <title>建站指北</title>
       <link>https://liam-zhong.github.io/post/%E5%BB%BA%E7%AB%99%E6%8C%87%E5%8C%97/</link>
@@ -648,7 +648,7 @@
 &lt;/ol&gt;
 </description>
     </item>
-    
+      
     <item>
       <title>Demo01</title>
       <link>https://liam-zhong.github.io/post/demo01/</link>
@@ -656,85 +656,6 @@
       <guid>https://liam-zhong.github.io/post/demo01/</guid>
       <description>&lt;p&gt;这是我的第一篇博客&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;HELLO WORLD！&lt;/code&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://liam-zhong.github.io/archives/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://liam-zhong.github.io/archives/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://liam-zhong.github.io/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://liam-zhong.github.io/about/</guid>
-      <description>&lt;h2 id=&#34;h2-align--center我是谁h2&#34;&gt;&lt;h2 align = &#34;center&#34;&gt;我是谁&lt;/h2&gt;&lt;/h2&gt;
-&lt;hr&gt;
-&lt;p&gt;活人。&lt;/p&gt;
-&lt;h2 id=&#34;h2-align--center写作原则h2&#34;&gt;&lt;h2 align = &#34;center&#34;&gt;写作原则&lt;/h2&gt;&lt;/h2&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li&gt;不定期记日记。在22年八月里决心要写日记，写了不过几个字就晒网去了。&lt;/li&gt;
-&lt;li&gt;文字是对&lt;a href=&#34;https://baike.baidu.com/item/%E5%BA%9F%E5%90%8D/3243892&#34;&gt;偶像&lt;/a&gt;风格的拙劣模仿。&lt;/li&gt;
-&lt;li&gt;在知乎发想法是很好的Markdown插图方式。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;现今行记录之事，不需要正襟危坐在夜里挥那只万年笔，不需要忧虑被别人窥探。自己写自己的事情，随时随地。我在过去的几年之内，有种种不同的心情，想起来很爱惜，越幼稚，“不洁净”，越爱惜得利害，可惜有许多现在已经捉不住了。情愿不懒。&lt;/p&gt;
-&lt;h2 id=&#34;h2-align--center一些人h2&#34;&gt;&lt;h2 align = &#34;center&#34;&gt;一些人&lt;/h2&gt;&lt;/h2&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;排名不分先后&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;我爸：他这辈子真的很不容易&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.zhihu.com/people/xian-chi-70-72&#34;&gt;张鑫&lt;/a&gt;：一个苦人，我这里的好友&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;程云龙：好老师&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://b23.tv/mz9muoW&#34;&gt;刘星&lt;/a&gt;：引路人,powerful&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;XX:对爱情的祛魅&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;赵姜涵：好哥哥！&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;未完待续。&lt;/p&gt;
-&lt;h2 id=&#34;h2-align--center软件h2&#34;&gt;&lt;h2 align = &#34;center&#34;&gt;软件&lt;/h2&gt;&lt;/h2&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.python.org/&#34;&gt;Python&lt;/a&gt;：人生苦短&amp;hellip;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;：静态网站生成器&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://liam-zhong.github.io/contact/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://liam-zhong.github.io/contact/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Github|&lt;a href=&#34;https://github.com/Liam-Zhong/&#34;&gt;Liam-Zhong (赵连硕)&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;知乎|&lt;a href=&#34;https://www.zhihu.com/people/zhongcl-jiang&#34;&gt;春晼&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;邮件|chlzhong@outlook.com&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Blog|&lt;a href=&#34;https://liam-zhong.github.io/&#34;&gt;承霖的部落格&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
