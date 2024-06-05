@@ -85,3 +85,5 @@ series = "series"
   app_id = "6c8fd496-b686-4bb1-aac6-8276c867aa7a"
   host = "https://cusdis.com"
   lang = "zh-cn"  
+
+googleSiteVerification = true
