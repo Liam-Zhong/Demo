@@ -1,84 +1,664 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>承霖的部落格</title>
     <link>https://liam-zhong.github.io/</link>
-    <description>Recent content on 承霖的部落格</description>
-    <generator>Hugo</generator>
-    <language>zh</language>
-    <copyright>Copyright © 2004–2024, Steve Francia and the lee.so; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 04 Jun 2024 18:29:48 +0800</lastBuildDate>
-    <atom:link href="https://liam-zhong.github.io/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://liam-zhong.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>承霖的部落格</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh</language><copyright>Copyright © 2004–2024, Steve Francia and the lee.so; all rights reserved.</copyright><lastBuildDate>Tue, 04 Jun 2024 18:29:48 +0800</lastBuildDate>
     <item>
       <title>Soulsan</title>
       <link>https://liam-zhong.github.io/post/soulsan/</link>
       <pubDate>Tue, 04 Jun 2024 18:29:48 +0800</pubDate>
       <guid>https://liam-zhong.github.io/post/soulsan/</guid>
-      <description>“ 妳有心事？你说，逗着她玩。&#xA;你怎么看得出来？&#xA;这明摆着，一个女孩子独自跑到这种地方来。&#xA;你不也一个人？&#xA;这是我的嗜好，我喜换一个人游荡，可以沉思冥想。可像妳这样一个年轻姑娘——&#xA;得了吧，不只是你们男人才有思想。&#xA;我并没有说妳没有思想。&#xA;恰恰是有的男人并没有思想！&#xA;看来妳遇到了困难。&#xA;思想人人都有，并不非要有困难。&#xA;我没有同妳争吵。&#xA;我也没有这意思。&#xA;我希望能对妳有些帮助。&#xA;等我需要的时候。&#xA;妳现在没有这种需要？&#xA;谢谢，没有。我只需要一个人，谁也别来打扰我。&#xA;这就是说妳遇到了烦恼。&#xA;随你怎么说。&#xA;妳患了忧郁症。你说得也太严重了。&#xA;那妳承认妳有烦恼。&#xA;烦恼人人都有。&#xA;可妳在自寻烦恼。&#xA;为什么？&#xA;这不需要很多学问。&#xA;你这人真油。&#xA;如果还不至于讨厌的话。&#xA;并不等于喜欢。&#xA;”&#xA;事情发生在从三峡到圣托里尼的游轮上，那趟游轮夜间从万州出发，整个行程大概4个小时。游轮很大，有卧室，餐厅，酒吧一应俱全。&#xA;你的座位对面是一个年轻女孩，和你年龄相仿。她讲话不很好听，带着重庆人特有的温文软嗲。没有星星的长江漆黑一片，使得旅途令人乏味。 于是你们都用不流利的普通话聊天。她说她是福建人，她问了你很多江上的生活。你一一回答，看得出来她对此颇有兴趣。&#xA;原来她已经读了大学，主修心理。她年纪轻轻也去过印度，向你解释了阿特曼、梵为何物。碰巧你那时候读过一些和印度教相关的小说，便和她聊的火热。她很漂亮，芒果味儿的香水，大耳环，纹身，充满野性的外表，但她内心丰富，声音冲动富有节奏。有时候欲言又止，叫你感受到了她暗流涌动的内心世界。聊天中你得知她父母待她不薄，八岁那年就为她订下终身大事。她于是也就上了这艘船。&#xA;你说她是个任性的孩子。&#xA;聊了两个多少小时之后，你们都感到疲惫，当时已经夜里三点多了。透过窗外，远处海面漆黑一片，近处被掀起的海浪灰色朦胧，让人眩晕，她说她要去船舱的卧室睡一会。而你想去甲板上吹吹风。&#xA;当时正是夏日，夜间的风里也裹着温暖的湿气，你在甲板上吹了半个多小时，胸中生出一股无法释放的烦闷，脑海里抑制不住的去想她，两腿就不听使唤的向她卧室的船舱走去了。&#xA;船舱的长廊没开灯，鬼魅般的漆黑，门与墙壁都难以区分。你努力沿着长廊走到尽头，又原路返回，又再次走到尽头，原路返回…。不知道走了多少个来回之后，最里面的那道门开了，一只手把你拉了进去。你紧张又兴奋，并预见到将要发生的事情，一心只想顺其自然。卧室里依然漆黑无光，你看不清她。但凭借着闻到的芒果味香水，你便知道是她。&#xA;你问她能同你过河吗？去河对岸，那边有一座灵山，可以见到种种神奇，可以忘掉痛苦，可以得到解脱，你努力引诱她。&#xA;你们亲热，温存。她说她不是傻瓜。又说那些杂种带她夜里到河里去游泳，都回来了，说是上岸以后，才发现只少了她。全是鬼话，可他们都这么说，还说可以验尸，不信尽管去找法医。她妈妈不同意，忍受不了，女孩子死的时候刚十六周岁。她知道他们不止一次约她夜里出去，把她堵在桥墩下，一个个从她身上路过去。&#xA;在只能用身体去感受的黑暗里，她像一只蝙蝠无需光线也能成功定位，严丝合缝的让你沉入她的海里。走出那道门之后，你回到夹板上，一直等到日出。海面上生出红日，远处漆黑波浪变得清晰跳跃，你庆幸今后的人生将会有所不同。&#xA;天刚亮时，船正好靠岸了，你有意去找她，但是没有遇到，于是只好租车先去到圣托里尼的酒店。酒店坐落如梯田般的层层悬崖之上，你不禁回想起文山和那个夜晚，你发现旁边就有个视野极好的观景台，在那里眺望阳光照耀下的爱琴海，真是太美了，空气通透清澈，视野一览无余，让人心生爱情的美好。于是你开始回味夜里那次有计划的失身，脑海里浮现出她野性的面容，她芒果味的香水。&#xA;这时候你又看到观景台上走来一对讲着英文的白人中年夫妇，这让你想起来她讲到她的事情，你想象着她在家里被殴打的经历，通过窗户。心生敬佩。可突然间，你想到了什么，感觉事情不对。你冷静回想那次激情时刻，闭上眼睛，让记忆回到那片极度朦胧且暧昧的黑暗中，你再次闻到了芒果味的香水，并在一片混沌之中看了一个金属片跟随那对丰满的胸部起伏跳跃。原来如此，你深吸一口从海的另一面吹来的风，感到内脏冰凉，那个金属片是她战死的爸爸留下的遗物名牌。而那个黑暗中野性十足的女人是她少言寡语的妹妹。&#xA;从三峡溪涧伸起的几棵老白果树上还未脱尽的叶子，映照得失去了颜色，只有灯光照着的走廊和屋檐才实实在在。</description>
+      <description>&lt;p&gt;“
+妳有心事？你说，逗着她玩。&lt;br&gt;
+你怎么看得出来？&lt;br&gt;
+这明摆着，一个女孩子独自跑到这种地方来。&lt;br&gt;
+你不也一个人？&lt;br&gt;
+这是我的嗜好，我喜换一个人游荡，可以沉思冥想。可像妳这样一个年轻姑娘——&lt;br&gt;
+得了吧，不只是你们男人才有思想。&lt;br&gt;
+我并没有说妳没有思想。&lt;br&gt;
+恰恰是有的男人并没有思想！&lt;br&gt;
+看来妳遇到了困难。&lt;br&gt;
+思想人人都有，并不非要有困难。&lt;br&gt;
+我没有同妳争吵。&lt;br&gt;
+我也没有这意思。&lt;br&gt;
+我希望能对妳有些帮助。&lt;br&gt;
+等我需要的时候。&lt;br&gt;
+妳现在没有这种需要？&lt;br&gt;
+谢谢，没有。我只需要一个人，谁也别来打扰我。&lt;br&gt;
+这就是说妳遇到了烦恼。&lt;br&gt;
+随你怎么说。&lt;br&gt;
+妳患了忧郁症。你说得也太严重了。&lt;br&gt;
+那妳承认妳有烦恼。&lt;br&gt;
+烦恼人人都有。&lt;br&gt;
+可妳在自寻烦恼。&lt;br&gt;
+为什么？&lt;br&gt;
+这不需要很多学问。&lt;br&gt;
+你这人真油。&lt;br&gt;
+如果还不至于讨厌的话。&lt;br&gt;
+并不等于喜欢。&lt;br&gt;
+”&lt;/p&gt;
+&lt;p&gt;事情发生在从三峡到圣托里尼的游轮上，那趟游轮夜间从万州出发，整个行程大概4个小时。游轮很大，有卧室，餐厅，酒吧一应俱全。&lt;/p&gt;
+&lt;p&gt;你的座位对面是一个年轻女孩，和你年龄相仿。她讲话不很好听，带着重庆人特有的温文软嗲。没有星星的长江漆黑一片，使得旅途令人乏味。 于是你们都用不流利的普通话聊天。她说她是福建人，她问了你很多江上的生活。你一一回答，看得出来她对此颇有兴趣。&lt;/p&gt;
+&lt;p&gt;原来她已经读了大学，主修心理。她年纪轻轻也去过印度，向你解释了阿特曼、梵为何物。碰巧你那时候读过一些和印度教相关的小说，便和她聊的火热。她很漂亮，芒果味儿的香水，大耳环，纹身，充满野性的外表，但她内心丰富，声音冲动富有节奏。有时候欲言又止，叫你感受到了她暗流涌动的内心世界。聊天中你得知她父母待她不薄，八岁那年就为她订下终身大事。她于是也就上了这艘船。&lt;/p&gt;
+&lt;p&gt;你说她是个任性的孩子。&lt;/p&gt;
+&lt;p&gt;聊了两个多少小时之后，你们都感到疲惫，当时已经夜里三点多了。透过窗外，远处海面漆黑一片，近处被掀起的海浪灰色朦胧，让人眩晕，她说她要去船舱的卧室睡一会。而你想去甲板上吹吹风。&lt;/p&gt;
+&lt;p&gt;当时正是夏日，夜间的风里也裹着温暖的湿气，你在甲板上吹了半个多小时，胸中生出一股无法释放的烦闷，脑海里抑制不住的去想她，两腿就不听使唤的向她卧室的船舱走去了。&lt;/p&gt;
+&lt;p&gt;船舱的长廊没开灯，鬼魅般的漆黑，门与墙壁都难以区分。你努力沿着长廊走到尽头，又原路返回，又再次走到尽头，原路返回…。不知道走了多少个来回之后，最里面的那道门开了，一只手把你拉了进去。你紧张又兴奋，并预见到将要发生的事情，一心只想顺其自然。卧室里依然漆黑无光，你看不清她。但凭借着闻到的芒果味香水，你便知道是她。&lt;/p&gt;
+&lt;p&gt;你问她能同你过河吗？去河对岸，那边有一座灵山，可以见到种种神奇，可以忘掉痛苦，可以得到解脱，你努力引诱她。&lt;/p&gt;
+&lt;p&gt;你们亲热，温存。她说她不是傻瓜。又说那些杂种带她夜里到河里去游泳，都回来了，说是上岸以后，才发现只少了她。全是鬼话，可他们都这么说，还说可以验尸，不信尽管去找法医。她妈妈不同意，忍受不了，女孩子死的时候刚十六周岁。她知道他们不止一次约她夜里出去，把她堵在桥墩下，一个个从她身上路过去。&lt;/p&gt;
+&lt;p&gt;在只能用身体去感受的黑暗里，她像一只蝙蝠无需光线也能成功定位，严丝合缝的让你沉入她的海里。走出那道门之后，你回到夹板上，一直等到日出。海面上生出红日，远处漆黑波浪变得清晰跳跃，你庆幸今后的人生将会有所不同。&lt;/p&gt;
+&lt;p&gt;天刚亮时，船正好靠岸了，你有意去找她，但是没有遇到，于是只好租车先去到圣托里尼的酒店。酒店坐落如梯田般的层层悬崖之上，你不禁回想起文山和那个夜晚，你发现旁边就有个视野极好的观景台，在那里眺望阳光照耀下的爱琴海，真是太美了，空气通透清澈，视野一览无余，让人心生爱情的美好。于是你开始回味夜里那次有计划的失身，脑海里浮现出她野性的面容，她芒果味的香水。&lt;/p&gt;
+&lt;p&gt;这时候你又看到观景台上走来一对讲着英文的白人中年夫妇，这让你想起来她讲到她的事情，你想象着她在家里被殴打的经历，通过窗户。心生敬佩。可突然间，你想到了什么，感觉事情不对。你冷静回想那次激情时刻，闭上眼睛，让记忆回到那片极度朦胧且暧昧的黑暗中，你再次闻到了芒果味的香水，并在一片混沌之中看了一个金属片跟随那对丰满的胸部起伏跳跃。原来如此，你深吸一口从海的另一面吹来的风，感到内脏冰凉，那个金属片是她战死的爸爸留下的遗物名牌。而那个黑暗中野性十足的女人是她少言寡语的妹妹。&lt;/p&gt;
+&lt;p&gt;从三峡溪涧伸起的几棵老白果树上还未脱尽的叶子，映照得失去了颜色，只有灯光照着的走廊和屋檐才实实在在。&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>图图呢</title>
       <link>https://liam-zhong.github.io/post/%E5%9B%BE%E5%9B%BE%E5%91%A2/</link>
       <pubDate>Mon, 03 Jun 2024 22:34:40 +0800</pubDate>
       <guid>https://liam-zhong.github.io/post/%E5%9B%BE%E5%9B%BE%E5%91%A2/</guid>
-      <description>难得周一课少，再说几句&#xA;一直用的知乎作为自己部落格的图床，优点是访问快，缺点就是bigger不高，不方便查看（当然主要原因是我没编辑html&amp;hellip;）于是今天想尝试更换为Github的,翻了几篇文章感觉为了这个东西牺牲访问速度不太划算，遂罢（建议加到未遂里）&#xA;好玩的是在教程的过程中看到有位自己网站的图都寄了，看来比起国内的审核，github更严？（知乎惊喜.jpg）&#xA;这一拍做个分割线&#xA;一件事情只会在开始之前和结束之后美好，&#xA;比如读大学、打工、恋爱，&#xA;以及写论文，&#xA;我现在就在赶论文，非常痛苦。&#xA;对人的思念大致上分为两种，&#xA;一种是放空念陶诗，觉得自己状态不错的闲暇，才有底气联系某人的思念，&#xA;另一种是即便深陷泥沼，只要想起某人，就觉得事情没那么糟糕的思念。&#xA;很难说哪种是利用哪种是喜欢，&#xA;反正在XX看来都是失联。&#xA;好月好月，一溪哀意投花林。&#xA;这个时候，如月之前，&#xA;发及面庞，深谙华美与月同辉一色，&#xA;我在犹豫该说“别难过了”还是“别哭啦”，&#xA;我想我只是想和她周旋。&#xA;每个人都觉得自己有段很长的故事要讲，&#xA;最后说出来也就寥寥数语，&#xA;别人在故事的开头就走得干脆利落，&#xA;剩下的篇幅全是自我拉扯，&#xA;可以更自然，一点都不自然。&#xA;秋风发微凉，寒蝉鸣我侧，&#xA;今天的烦忧就死在今天，&#xA;假如有人......&#xA;No, por favor, no lo hagas</description>
+      <description>&lt;p&gt;难得周一课少，再说几句&lt;/p&gt;
+&lt;p&gt;一直用的知乎作为自己部落格的图床，优点是访问快，缺点就是bigger不高，不方便查看（当然主要原因是我没编辑html&amp;hellip;）于是今天想尝试更换为Github的,翻了几篇文章感觉为了这个东西牺牲访问速度不太划算，遂罢（建议加到未遂里）&lt;/p&gt;
+&lt;p&gt;好玩的是在教程的过程中看到有位自己网站的图都寄了，看来比起国内的审核，github更严？（知乎惊喜.jpg）&lt;img src=&#34;https://pic4.zhimg.com/80/v2-db0b7b35bc414a52f8c9cbec2d654677_1440w.webp&#34; alt=&#34;图图&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;这一拍做个分割线&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;一件事情只会在开始之前和结束之后美好，&lt;br&gt;
+比如读大学、打工、恋爱，&lt;br&gt;
+以及写论文，&lt;br&gt;
+我现在就在赶论文，非常痛苦。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+对人的思念大致上分为两种，&lt;br&gt;
+一种是放空念陶诗，觉得自己状态不错的闲暇，才有底气联系某人的思念，&lt;br&gt;
+另一种是即便深陷泥沼，只要想起某人，就觉得事情没那么糟糕的思念。&lt;br&gt;
+很难说哪种是利用哪种是喜欢，&lt;br&gt;
+反正在XX看来都是失联。&lt;br&gt;
+&lt;p&gt; &lt;/p&gt;
+好月好月，一溪哀意投花林。&lt;br&gt;
+这个时候，如月之前，&lt;br&gt;
+发及面庞，深谙华美与月同辉一色，&lt;br&gt;
+我在犹豫该说“别难过了”还是“别哭啦”，&lt;br&gt;
+我想我只是想和她周旋。&lt;br&gt;
+&lt;p&gt; &lt;/p&gt;
+每个人都觉得自己有段很长的故事要讲，&lt;br&gt;
+最后说出来也就寥寥数语，&lt;br&gt;
+别人在故事的开头就走得干脆利落，&lt;br&gt;
+剩下的篇幅全是自我拉扯，&lt;br&gt;
+可以更自然，一点都不自然。&lt;br&gt;
+&lt;p&gt; &lt;/p&gt;
+秋风发微凉，寒蝉鸣我侧，&lt;br&gt;
+今天的烦忧就死在今天，&lt;br&gt;
+假如有人......&lt;br&gt;
+&lt;blockquote&gt;
+&lt;p&gt;No, por favor, no lo hagas&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
     </item>
+    
     <item>
       <title>报告未遂</title>
       <link>https://liam-zhong.github.io/post/%E6%8A%A5%E5%91%8A%E6%9C%AA%E9%81%82/</link>
       <pubDate>Mon, 03 Jun 2024 13:00:45 +0800</pubDate>
       <guid>https://liam-zhong.github.io/post/%E6%8A%A5%E5%91%8A%E6%9C%AA%E9%81%82/</guid>
-      <description>大二下的所谓”大作业“来得特别多，至今天还有ml、数据挖掘、数据库*2（真是令人悲伤）没写，算上已经完成的数学建模，人工智能，可以说是&#xA;所有回忆对着我进攻&#xA;1.昨天的事&#xA;我出去上一次自习也不容易啊，周天在教室看了不到一小时优惠券，复习完了之前数模的笔记，然后觉得小白功力太深，有点扛不住了，加上 “春困秋乏夏打盹” 的理论指导，我就堂而皇之地趴下了（睡觉就睡觉还找什么理由），结果睡了不到十分钟，正快要梦游天姆去了四教老头来电话，把我震醒了，要我归还多媒体钥匙，然后揉揉眼睛，起来下楼 ——小林未遂系列故事之 “自习未遂”&amp;amp;“睡午觉未遂”&#xA;耍了盘扫雷时间就又过去，看了看貌似可以稍微拖延一下，于是心里呼口气，还好，暂时死不了，回到教室一看桌上，不知什么时候京东来的一条消息，快递到了，我看了看，窗户紧闭，门也是我过来开的，摸摸凳子，还是凉的，窗外风声呜咽，如泣如诉（记不得了）—— 小林恐怖故事系列之 “雨天快递拍案惊奇之千古疑案”&#xA;2.今天的事&#xA;白天是半天，水完的数据库感谢好哥哥治水，我猜大禹当年不过如此&#xA;于是下午洗澡未遂 —— 小林未遂系列故事之 “洗澡未遂”。&#xA;等我再回寝室，看见手机来一个电话，再看了看，窗户开着，门也开着，舍友在屋里，凳子…… 居然是XX，心里顿感大事不妙，问清原委后乃呼呼大睡过去。&#xA;想想昨天晚上，本来也是准备上自习，结果半路我姐打电话过来说是参与了个国企项目，于是我又班师回朝，回来看看其实也是小事一桩，十几分钟搞定的事情。还是落了个 “自习未遂”。&#xA;3.现在&amp;hellip;?&#xA;现在整个世界清静了，我可以安心写我的作业啦，终于有机会热爱学习了！&#xA;P.S. 最后啰嗦一句，今天题目叫报告未遂，所以我的作业&amp;hellip;&amp;hellip;算了它是独立变量</description>
+      <description>&lt;p&gt;大二下的所谓”大作业“来得特别多，至今天还有ml、数据挖掘、数据库*2（真是令人悲伤）没写，算上已经完成的数学建模，人工智能，可以说是&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;所有回忆对着我进攻&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;1.昨天的事&lt;/p&gt;
+&lt;p&gt;我出去上一次自习也不容易啊，周天在教室看了不到一小时优惠券，复习完了之前数模的笔记，然后觉得小白功力太深，有点扛不住了，加上 “春困秋乏夏打盹” 的理论指导，我就堂而皇之地趴下了（睡觉就睡觉还找什么理由），结果睡了不到十分钟，正快要梦游天姆去了四教老头来电话，把我震醒了，要我归还多媒体钥匙，然后揉揉眼睛，起来下楼 ——小林未遂系列故事之 “自习未遂”&amp;amp;“睡午觉未遂”&lt;/p&gt;
+&lt;p&gt;耍了盘扫雷时间就又过去，看了看貌似可以稍微拖延一下，于是心里呼口气，还好，暂时死不了，回到教室一看桌上，不知什么时候京东来的一条消息，快递到了，我看了看，窗户紧闭，门也是我过来开的，摸摸凳子，还是凉的，窗外风声呜咽，如泣如诉（记不得了）—— 小林恐怖故事系列之 “雨天快递拍案惊奇之千古疑案”&lt;/p&gt;
+&lt;p&gt;2.今天的事&lt;/p&gt;
+&lt;p&gt;白天是半天，水完的数据库感谢好哥哥治水，我猜大禹当年不过如此&lt;/p&gt;
+&lt;p&gt;于是下午洗澡未遂 —— 小林未遂系列故事之 “洗澡未遂”。&lt;/p&gt;
+&lt;p&gt;等我再回寝室，看见手机来一个电话，再看了看，窗户开着，门也开着，舍友在屋里，凳子…… 居然是XX，心里顿感大事不妙，问清原委后乃呼呼大睡过去。&lt;/p&gt;
+&lt;p&gt;想想昨天晚上，本来也是准备上自习，结果半路我姐打电话过来说是参与了个国企项目，于是我又班师回朝，回来看看其实也是小事一桩，十几分钟搞定的事情。还是落了个 “自习未遂”。&lt;/p&gt;
+&lt;p&gt;3.现在&amp;hellip;?&lt;/p&gt;
+&lt;p&gt;现在整个世界清静了，我可以安心写我的作业啦，终于有机会热爱学习了！&lt;/p&gt;
+&lt;p&gt;P.S. 最后啰嗦一句，今天题目叫报告未遂，所以我的作业&amp;hellip;&amp;hellip;算了它是独立变量&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Statistic</title>
       <link>https://liam-zhong.github.io/post/statistic/</link>
       <pubDate>Sun, 02 Jun 2024 14:12:14 +0800</pubDate>
       <guid>https://liam-zhong.github.io/post/statistic/</guid>
-      <description>Stamp&#xD;Store Phone Address Postal Code 中国集邮专卖店重庆市北碚店 023-68355057 重庆市北碚区朝阳路21号 400700 中国集邮专卖店重庆市渝中区店 023-63829460 重庆市渝中区民权路3号 400010 中国集邮专卖店重庆市杨家坪店 023-68853292 重庆市九龙坡区杨家坪正街18号 400050 中国集邮专卖店重庆市观音桥店 023-67850017 重庆市江北区观音桥步行街9号1-4 400020 Fountain Pen&#xD;钢笔型号 材质 颜色 尺寸(mm) 重量(g) 百乐78G F 树脂 黑色 135*11 11.5 英雄616 塑料 墨绿 140*13 16 高仕经典世纪 F 金属 蓝珐琅白夹 132*9 16 金豪大道9016 F 树脂 透明白 142*15 21 写乐1219 M 树脂 象牙白 135*15 17 英雄100 金属 金夹 140*13 21 </description>
+      <description>&lt;center&gt;Stamp&lt;/center&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Store&lt;/th&gt;
+&lt;th&gt;Phone&lt;/th&gt;
+&lt;th&gt;Address&lt;/th&gt;
+&lt;th&gt;Postal Code&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;中国集邮专卖店重庆市北碚店&lt;/td&gt;
+&lt;td&gt;023-68355057&lt;/td&gt;
+&lt;td&gt;重庆市北碚区朝阳路21号&lt;/td&gt;
+&lt;td&gt;400700&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;中国集邮专卖店重庆市渝中区店&lt;/td&gt;
+&lt;td&gt;023-63829460&lt;/td&gt;
+&lt;td&gt;重庆市渝中区民权路3号&lt;/td&gt;
+&lt;td&gt;400010&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;中国集邮专卖店重庆市杨家坪店&lt;/td&gt;
+&lt;td&gt;023-68853292&lt;/td&gt;
+&lt;td&gt;重庆市九龙坡区杨家坪正街18号&lt;/td&gt;
+&lt;td&gt;400050&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;中国集邮专卖店重庆市观音桥店&lt;/td&gt;
+&lt;td&gt;023-67850017&lt;/td&gt;
+&lt;td&gt;重庆市江北区观音桥步行街9号1-4&lt;/td&gt;
+&lt;td&gt;400020&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;center&gt;Fountain Pen&lt;/center&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;钢笔型号&lt;/th&gt;
+&lt;th&gt;材质&lt;/th&gt;
+&lt;th&gt;颜色&lt;/th&gt;
+&lt;th&gt;尺寸(mm)&lt;/th&gt;
+&lt;th&gt;重量(g)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;百乐78G F&lt;/td&gt;
+&lt;td&gt;树脂&lt;/td&gt;
+&lt;td&gt;黑色&lt;/td&gt;
+&lt;td&gt;135*11&lt;/td&gt;
+&lt;td&gt;11.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;英雄616&lt;/td&gt;
+&lt;td&gt;塑料&lt;/td&gt;
+&lt;td&gt;墨绿&lt;/td&gt;
+&lt;td&gt;140*13&lt;/td&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;高仕经典世纪 F&lt;/td&gt;
+&lt;td&gt;金属&lt;/td&gt;
+&lt;td&gt;蓝珐琅白夹&lt;/td&gt;
+&lt;td&gt;132*9&lt;/td&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;金豪大道9016 F&lt;/td&gt;
+&lt;td&gt;树脂&lt;/td&gt;
+&lt;td&gt;透明白&lt;/td&gt;
+&lt;td&gt;142*15&lt;/td&gt;
+&lt;td&gt;21&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;写乐1219 M&lt;/td&gt;
+&lt;td&gt;树脂&lt;/td&gt;
+&lt;td&gt;象牙白&lt;/td&gt;
+&lt;td&gt;135*15&lt;/td&gt;
+&lt;td&gt;17&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;英雄100&lt;/td&gt;
+&lt;td&gt;金属&lt;/td&gt;
+&lt;td&gt;金夹&lt;/td&gt;
+&lt;td&gt;140*13&lt;/td&gt;
+&lt;td&gt;21&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
     </item>
+    
     <item>
       <title>狐狸和猫</title>
       <link>https://liam-zhong.github.io/post/%E7%8B%90%E7%8B%B8%E5%92%8C%E7%8C%AB/</link>
       <pubDate>Fri, 31 May 2024 22:13:59 +0800</pubDate>
       <guid>https://liam-zhong.github.io/post/%E7%8B%90%E7%8B%B8%E5%92%8C%E7%8C%AB/</guid>
-      <description>小猫说：&#xA;1.今日雨水。&#xA;可惜我小小的房间没有窗，听不到雨水落地时淅淅沥沥的声音。&#xA;想特意去淋淋雨，但眼镜沾上雨水后，我便很难看清东西。&#xA;下雨时，空气带上了许多凉意，在凉凉的世界里待着，好像时间都变快了。&#xA;2.我常常会闻到油菜花的香味。&#xA;先是浓腻的花香，而后我的脑海里闪过大片的金黄。&#xA;我不自觉地想要抓住这熟悉的感觉，然而，每当我想细细回忆时，这香味总是会在片刻间消失得无影无踪，仿佛它从未存在过似的。&#xA;我知道，它存在于几年前我所居住的地方，它生长于那片被村民精心耕种呵护的土地。&#xA;它的香气，跨越时间空间，永远留存在我的身体里面，陪我长大，陪我变老。&#xA;3.最近不太想睡觉。&#xA;晚上，眼睛一闭一睁，便到了第二天。若是再赖赖床，躺床上玩玩手机，这新的一天便又过去一半了。&#xA;这种对于时间的麻木让我感到很恐慌。&#xA;1月28号从学校回到家，2月25号便要返校，明明计划清单上的事情一件没做，这50多天的寒假居然就那么过去了。&#xA;—————————————————————————————————————————&#xA;狐狸的话：&#xA;爱让人成为自己。&#xA;爱很抽象。爱到底是什么？从小家人和朋友之间的支持，理解，陪伴，共鸣。遇见ta之后恋人之间的尊重，理解，支持，帮助，依靠。珍重的爱慕与杂乱的爱欲。&#xA;爱情的意义在于有一个人，胜过世界上的任何人理解你，胜过世界上的任何人陪伴你，胜过世界上的任何人不顾一切的爱你。你的喜欢和兴趣，目标和意志。做出的努力，受过的苦。你的弱点，委屈。对未来的期待和不坚定的理想。你经历里越不过去的坎，无法化解的困难。你现在遇到的无法自己解决的问题，将来潜在的烦恼。都有一个人接的住，都有一个人可以毫无保留，都有一个人可以在你同侧。愿意了解你，接受你，支持你，帮助你，和你一起面对这世界的一切。&#xA;爱能打败大部分孤独，而人生来孤独。父母的经历和自己客观上是不同的，这决定了我们永远无法做到彻底的相互理解。因为合得来而成为的朋友，在某些方面做不到理解。朋友只有一个或者几个面，能满足理解的需求。只有恋人之间可以做到最全面的理解。我是一个唯物主义者，但是在爱情这件事上，我更认可它是玄学。遇见合适又喜欢的恋人靠不了逻辑，这得靠缘分。&#xA;还有什么比拥有了一切却没有人能分享更难过的事？ 那么还有什么比拥有了一切又有人分享更幸福的事？ 活着的意义从来不是当人矿。重要的从来不是所谓的好的生活，而是你喜欢的，想要的生活。幸福也从来不是靠忽悠，活的开不开心自己心里最清楚。当然，经济基础决定上层建筑，想要幸福得有经济基础，要好好努力。&#xA;幸福的奋斗过程是需要爱的。如果不是爱情，可能需要友情和亲情弥补。但是恐怕达不到同样的效果。一个人的信念和力量，是不够和世界对抗的。甚至有的时候连自己都无法对抗，不是吗？&#xA;—————————————————————————————————————————&#xA;小猫说：&#xA;1、一日三餐，粗茶淡饭，蜜饯干果，瓜子点心，胭脂水粉，衣服房子，家具……&#xA;当我认真盘算起这些琐而必需之物时，终于明白了那句“距离产生美”。我现在所不关心的会使我以后一阵子郁郁寡欢吗？&#xA;我看见每个过往的行人，有一张衰弱、不快乐的脸。&#xA;我不要它和我如影随形。讨厌计划又害怕consequence&#xA;2、山下花好，素雅吝啬，不肯分我一点香味。山上人好，搽粉画眉，雾里我说这是朦胧的距离。手机说明天大雨，大雨好看。&#xA;亭然翠影，无须点墨。闲澹天色，不染纤尘。&#xA;—————————————————————————————————————————&#xA;小猫说：&#xA;杜鹃没有任何一点花的味道，在颜色上却很有一抹的好看。常相见的一丛之中颜色便“气候不同”。这里红一点那里粉一点，最妙的是沾上的颗珠子：湿答答，你听，哒哒哒哒，原是下雨，或是泪滴儿，我不知道，我不知道。&#xA;—————————————————————————————————————————&#xA;狐狸的话：&#xA;在世俗上取得成功尤其是体育或者一项技能或者科学研究的习得过程往往都和闭关很像。需要内心是高度专注的状态，也就是古代人说的“定心”，借着高度专注内心推动客观世界的发展（取得技能的熟练或者灵感的迸发，就类似钻木取火）&#xA;高度专注的心，是相对清静，稳定，纯净的&#xA;然而爱情，天然就是躁动的，杂乱的，里面包含了欲望，虚荣，性欲，想想那些所谓小鹿乱撞，crush，暧昧&#xA;这就是和定心完全不搭调的低级心境，是无法让人在客观世界达到什么高度的&#xA;所以兵荒马乱就是最优解 这个集子以后就不在备忘录更新了</description>
+      <description>&lt;p&gt;小猫说：&lt;/p&gt;
+&lt;p&gt;1.今日雨水。&lt;/p&gt;
+&lt;p&gt;可惜我小小的房间没有窗，听不到雨水落地时淅淅沥沥的声音。&lt;/p&gt;
+&lt;p&gt;想特意去淋淋雨，但眼镜沾上雨水后，我便很难看清东西。&lt;/p&gt;
+&lt;p&gt;下雨时，空气带上了许多凉意，在凉凉的世界里待着，好像时间都变快了。&lt;/p&gt;
+&lt;p&gt;2.我常常会闻到油菜花的香味。&lt;/p&gt;
+&lt;p&gt;先是浓腻的花香，而后我的脑海里闪过大片的金黄。&lt;/p&gt;
+&lt;p&gt;我不自觉地想要抓住这熟悉的感觉，然而，每当我想细细回忆时，这香味总是会在片刻间消失得无影无踪，仿佛它从未存在过似的。&lt;/p&gt;
+&lt;p&gt;我知道，它存在于几年前我所居住的地方，它生长于那片被村民精心耕种呵护的土地。&lt;/p&gt;
+&lt;p&gt;它的香气，跨越时间空间，永远留存在我的身体里面，陪我长大，陪我变老。&lt;/p&gt;
+&lt;p&gt;3.最近不太想睡觉。&lt;/p&gt;
+&lt;p&gt;晚上，眼睛一闭一睁，便到了第二天。若是再赖赖床，躺床上玩玩手机，这新的一天便又过去一半了。&lt;/p&gt;
+&lt;p&gt;这种对于时间的麻木让我感到很恐慌。&lt;/p&gt;
+&lt;p&gt;1月28号从学校回到家，2月25号便要返校，明明计划清单上的事情一件没做，这50多天的寒假居然就那么过去了。&lt;/p&gt;
+&lt;p&gt;—————————————————————————————————————————&lt;/p&gt;
+&lt;p&gt;狐狸的话：&lt;/p&gt;
+&lt;p&gt;爱让人成为自己。&lt;/p&gt;
+&lt;p&gt;爱很抽象。爱到底是什么？从小家人和朋友之间的支持，理解，陪伴，共鸣。遇见ta之后恋人之间的尊重，理解，支持，帮助，依靠。珍重的爱慕与杂乱的爱欲。&lt;/p&gt;
+&lt;p&gt;爱情的意义在于有一个人，胜过世界上的任何人理解你，胜过世界上的任何人陪伴你，胜过世界上的任何人不顾一切的爱你。你的喜欢和兴趣，目标和意志。做出的努力，受过的苦。你的弱点，委屈。对未来的期待和不坚定的理想。你经历里越不过去的坎，无法化解的困难。你现在遇到的无法自己解决的问题，将来潜在的烦恼。都有一个人接的住，都有一个人可以毫无保留，都有一个人可以在你同侧。愿意了解你，接受你，支持你，帮助你，和你一起面对这世界的一切。&lt;/p&gt;
+&lt;p&gt;爱能打败大部分孤独，而人生来孤独。父母的经历和自己客观上是不同的，这决定了我们永远无法做到彻底的相互理解。因为合得来而成为的朋友，在某些方面做不到理解。朋友只有一个或者几个面，能满足理解的需求。只有恋人之间可以做到最全面的理解。我是一个唯物主义者，但是在爱情这件事上，我更认可它是玄学。遇见合适又喜欢的恋人靠不了逻辑，这得靠缘分。&lt;/p&gt;
+&lt;p&gt;还有什么比拥有了一切却没有人能分享更难过的事？ 那么还有什么比拥有了一切又有人分享更幸福的事？ 活着的意义从来不是当人矿。重要的从来不是所谓的好的生活，而是你喜欢的，想要的生活。幸福也从来不是靠忽悠，活的开不开心自己心里最清楚。当然，经济基础决定上层建筑，想要幸福得有经济基础，要好好努力。&lt;/p&gt;
+&lt;p&gt;幸福的奋斗过程是需要爱的。如果不是爱情，可能需要友情和亲情弥补。但是恐怕达不到同样的效果。一个人的信念和力量，是不够和世界对抗的。甚至有的时候连自己都无法对抗，不是吗？&lt;/p&gt;
+&lt;p&gt;—————————————————————————————————————————&lt;/p&gt;
+&lt;p&gt;小猫说：&lt;/p&gt;
+&lt;p&gt;1、一日三餐，粗茶淡饭，蜜饯干果，瓜子点心，胭脂水粉，衣服房子，家具……&lt;/p&gt;
+&lt;p&gt;当我认真盘算起这些琐而必需之物时，终于明白了那句“距离产生美”。我现在所不关心的会使我以后一阵子郁郁寡欢吗？&lt;/p&gt;
+&lt;p&gt;我看见每个过往的行人，有一张衰弱、不快乐的脸。&lt;/p&gt;
+&lt;p&gt;我不要它和我如影随形。讨厌计划又害怕&lt;strong&gt;consequence&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2、山下花好，素雅吝啬，不肯分我一点香味。山上人好，搽粉画眉，雾里我说这是朦胧的距离。手机说明天大雨，大雨好看。&lt;/p&gt;
+&lt;p&gt;亭然翠影，无须点墨。闲澹天色，不染纤尘。&lt;/p&gt;
+&lt;p&gt;—————————————————————————————————————————&lt;/p&gt;
+&lt;p&gt;小猫说：&lt;/p&gt;
+&lt;p&gt;杜鹃没有任何一点花的味道，在颜色上却很有一抹的好看。常相见的一丛之中颜色便“气候不同”。这里红一点那里粉一点，最妙的是沾上的颗珠子：湿答答，你听，哒哒哒哒，原是下雨，或是泪滴儿，我不知道，我不知道。&lt;/p&gt;
+&lt;p&gt;—————————————————————————————————————————&lt;/p&gt;
+&lt;p&gt;狐狸的话：&lt;/p&gt;
+&lt;p&gt;在世俗上取得成功尤其是体育或者一项技能或者科学研究的习得过程往往都和闭关很像。需要内心是高度专注的状态，也就是古代人说的“定心”，借着高度专注内心推动客观世界的发展（取得技能的熟练或者灵感的迸发，就类似钻木取火）&lt;/p&gt;
+&lt;p&gt;高度专注的心，是相对清静，稳定，纯净的&lt;/p&gt;
+&lt;p&gt;然而爱情，天然就是躁动的，杂乱的，里面包含了欲望，虚荣，性欲，想想那些所谓小鹿乱撞，&lt;strong&gt;crush&lt;/strong&gt;，暧昧&lt;/p&gt;
+&lt;p&gt;这就是和定心完全不搭调的低级心境，是无法让人在客观世界达到什么高度的&lt;/p&gt;
+&lt;h4 id=&#34;所以兵荒马乱就是最优解&#34;&gt;所以兵荒马乱就是最优解&lt;/h4&gt;
+&lt;hr&gt;
+&lt;p&gt;这个集子以后就不在备忘录更新了&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/80/v2-0e23f682f2b929a5b8a1f075ed068602_1440w.webp&#34; alt=&#34;狐狸和猫&#34;&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>关于sql</title>
       <link>https://liam-zhong.github.io/post/%E5%85%B3%E4%BA%8Esql/</link>
       <pubDate>Thu, 30 May 2024 16:54:25 +0800</pubDate>
       <guid>https://liam-zhong.github.io/post/%E5%85%B3%E4%BA%8Esql/</guid>
-      <description>/*==============================================================*/ /* DBMS name: MySQL 5.0 */ /* Created on: 5/30/2024 4:50:58 PM */ /*==============================================================*/ drop table if exists bookshop; drop table if exists address; drop table if exists goumaishuji; drop table if exists guke; /*==============================================================*/ /* Table: bookshop */ /*==============================================================*/ create table bookshop ( BookShopNO char(6) not null, BookShopName varchar(30), Bookshopadd varchar(60), city varchar(20), sheng varchar(20), code char(6), primary key (BookShopNO) ); /*==============================================================*/ /* Table: address */ /*==============================================================*/ create table address ( AddressType char(2) not null, CustomerID varchar(10), Add1 varchar(50), Add2 varchar(50), city varchar(20), State varchar(15), code char(6), primary key (AddressType) ); /*==============================================================*/ /* Table: goumaishuji */ /*==============================================================*/ create table goumaishuji ( BookShopNO char(6) not null, CustomerID varchar(10) not null, primary key (BookShopNO) ); /*==============================================================*/ /* Table: guke */ /*==============================================================*/ create table guke ( CustomerID varchar(10) not null, AccountBalanceDecimal decimal(10,2), FirstName varchar(10), LastName varchar(20), CompanyName varchar(40), primary key (CustomerID) ); alter table address add constraint FK_xuanke foreign key (CustomerID) references guke (CustomerID) on delete restrict on update restrict; alter table goumaishuji add constraint FK_goumaishuji foreign key (BookShopNO) references bookshop (BookShopNO) on delete restrict on update restrict; alter table goumaishuji add constraint FK_goumaishuji2 foreign key (CustomerID) references guke (CustomerID) on delete restrict on update restrict; 在Windows11、Power Designer 16中导出上述sql文件时，会将一些键值打上引号，继而引发sql命令行操作报错，去掉之后正常。</description>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sql&#34; data-lang=&#34;sql&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;/*==============================================================*/&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;/* DBMS name:      MySQL 5.0                                    */&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;/* Created on:     5/30/2024 4:50:58 PM                         */&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;/*==============================================================*/&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;drop&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;table&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;exists&lt;/span&gt; bookshop;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;drop&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;table&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;exists&lt;/span&gt; address;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;drop&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;table&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;exists&lt;/span&gt; goumaishuji;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;drop&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;table&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;exists&lt;/span&gt; guke;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;/*==============================================================*/&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;/* Table: bookshop                                                    */&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;/*==============================================================*/&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;create&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;table&lt;/span&gt; bookshop
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;(
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   BookShopNO           char(&lt;span style=&#34;color:#ae81ff&#34;&gt;6&lt;/span&gt;) &lt;span style=&#34;color:#66d9ef&#34;&gt;not&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;null&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   BookShopName         varchar(&lt;span style=&#34;color:#ae81ff&#34;&gt;30&lt;/span&gt;),
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   Bookshopadd          varchar(&lt;span style=&#34;color:#ae81ff&#34;&gt;60&lt;/span&gt;),
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   city                 varchar(&lt;span style=&#34;color:#ae81ff&#34;&gt;20&lt;/span&gt;),
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   sheng                varchar(&lt;span style=&#34;color:#ae81ff&#34;&gt;20&lt;/span&gt;),
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   code                 char(&lt;span style=&#34;color:#ae81ff&#34;&gt;6&lt;/span&gt;),
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   &lt;span style=&#34;color:#66d9ef&#34;&gt;primary&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;key&lt;/span&gt; (BookShopNO)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;/*==============================================================*/&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;/* Table: address                                                    */&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;/*==============================================================*/&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;create&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;table&lt;/span&gt; address
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;(
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   AddressType       char(&lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;) &lt;span style=&#34;color:#66d9ef&#34;&gt;not&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;null&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   CustomerID           varchar(&lt;span style=&#34;color:#ae81ff&#34;&gt;10&lt;/span&gt;),
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   Add1                 varchar(&lt;span style=&#34;color:#ae81ff&#34;&gt;50&lt;/span&gt;),
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   Add2                 varchar(&lt;span style=&#34;color:#ae81ff&#34;&gt;50&lt;/span&gt;),
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   city                 varchar(&lt;span style=&#34;color:#ae81ff&#34;&gt;20&lt;/span&gt;),
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   &lt;span style=&#34;color:#66d9ef&#34;&gt;State&lt;/span&gt;                varchar(&lt;span style=&#34;color:#ae81ff&#34;&gt;15&lt;/span&gt;),
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   code                 char(&lt;span style=&#34;color:#ae81ff&#34;&gt;6&lt;/span&gt;),
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   &lt;span style=&#34;color:#66d9ef&#34;&gt;primary&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;key&lt;/span&gt; (AddressType)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;/*==============================================================*/&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;/* Table: goumaishuji                                                  */&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;/*==============================================================*/&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;create&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;table&lt;/span&gt; goumaishuji
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;(
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   BookShopNO           char(&lt;span style=&#34;color:#ae81ff&#34;&gt;6&lt;/span&gt;) &lt;span style=&#34;color:#66d9ef&#34;&gt;not&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;null&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   CustomerID           varchar(&lt;span style=&#34;color:#ae81ff&#34;&gt;10&lt;/span&gt;) &lt;span style=&#34;color:#66d9ef&#34;&gt;not&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;null&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   &lt;span style=&#34;color:#66d9ef&#34;&gt;primary&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;key&lt;/span&gt; (BookShopNO)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;/*==============================================================*/&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;/* Table: guke                                                    */&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;/*==============================================================*/&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;create&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;table&lt;/span&gt; guke
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;(
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   CustomerID           varchar(&lt;span style=&#34;color:#ae81ff&#34;&gt;10&lt;/span&gt;) &lt;span style=&#34;color:#66d9ef&#34;&gt;not&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;null&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   AccountBalanceDecimal decimal(&lt;span style=&#34;color:#ae81ff&#34;&gt;10&lt;/span&gt;,&lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;),
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   FirstName         varchar(&lt;span style=&#34;color:#ae81ff&#34;&gt;10&lt;/span&gt;),
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   LastName          varchar(&lt;span style=&#34;color:#ae81ff&#34;&gt;20&lt;/span&gt;),
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   CompanyName       varchar(&lt;span style=&#34;color:#ae81ff&#34;&gt;40&lt;/span&gt;),
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   &lt;span style=&#34;color:#66d9ef&#34;&gt;primary&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;key&lt;/span&gt; (CustomerID)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;alter&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;table&lt;/span&gt; address &lt;span style=&#34;color:#66d9ef&#34;&gt;add&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;constraint&lt;/span&gt; FK_xuanke &lt;span style=&#34;color:#66d9ef&#34;&gt;foreign&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;key&lt;/span&gt; (CustomerID)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;      &lt;span style=&#34;color:#66d9ef&#34;&gt;references&lt;/span&gt; guke (CustomerID) &lt;span style=&#34;color:#66d9ef&#34;&gt;on&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;delete&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;restrict&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;on&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;update&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;restrict&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;alter&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;table&lt;/span&gt; goumaishuji &lt;span style=&#34;color:#66d9ef&#34;&gt;add&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;constraint&lt;/span&gt; FK_goumaishuji &lt;span style=&#34;color:#66d9ef&#34;&gt;foreign&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;key&lt;/span&gt; (BookShopNO)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;      &lt;span style=&#34;color:#66d9ef&#34;&gt;references&lt;/span&gt; bookshop (BookShopNO) &lt;span style=&#34;color:#66d9ef&#34;&gt;on&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;delete&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;restrict&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;on&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;update&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;restrict&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;alter&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;table&lt;/span&gt; goumaishuji &lt;span style=&#34;color:#66d9ef&#34;&gt;add&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;constraint&lt;/span&gt; FK_goumaishuji2 &lt;span style=&#34;color:#66d9ef&#34;&gt;foreign&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;key&lt;/span&gt; (CustomerID)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;      &lt;span style=&#34;color:#66d9ef&#34;&gt;references&lt;/span&gt; guke (CustomerID) &lt;span style=&#34;color:#66d9ef&#34;&gt;on&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;delete&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;restrict&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;on&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;update&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;restrict&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;在Windows11、Power Designer 16中导出上述sql文件时，会将一些键值打上引号，继而引发sql命令行操作报错，去掉之后正常。&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>我们到底学到了什么？</title>
       <link>https://liam-zhong.github.io/post/%E6%88%91%E4%BB%AC%E5%88%B0%E5%BA%95%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88/</link>
       <pubDate>Thu, 30 May 2024 11:39:25 +0800</pubDate>
       <guid>https://liam-zhong.github.io/post/%E6%88%91%E4%BB%AC%E5%88%B0%E5%BA%95%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88/</guid>
-      <description>上图是妓院开设的课程表，落实的话我已经是一个熟练掌握高数线代概率论的讨厌花海的学生了。可事实上除了花海符合实际其余都只知名字怎么写而已。到底是怪老师没有讲清楚知识呢？还是怪我们自己没有好好学？还是怪这么课本身就不适合在我们学院开？其实学到ml还是可以知道这些知识运用很广泛，还是挺有用、挺有意思的，但是我们的课程根本不可能讲到那里去，课时太少，练习不够。由此我又想到本科阶段到底该学些什么；以我跟老师们的接触，他们大多都说该打好基础，我也赞同，但是我们开的这些课有没有达到这种目的呢？哪些课能显著体现计算机的基础？都是值得大家一起思考的问题。比如现在看ml就严重感觉到线代中矩阵的知识忘得差不多了，那才能让人感觉到什么叫基础，像我们所开过的数电、大物等课程有基础作用吗？似乎感觉有些偏了…… 反倒是语言课、数据结构这些课要好好深入学习学习，但是这些课我们又上好了吗？似乎也没有…… 我们的课程安排似乎是想让学生尽量多学些东西，但是顾了广度肯定会顾不上深度，这永远是一对矛盾，又是一个权重的问题。&#xA;拚命狂赶了两年（？），但是一点也不值得高兴……</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/80/v2-8ebe5f7b265b9066904fc8d63ca75b8e_1440w.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;上图是妓院开设的课程表，落实的话我已经是一个熟练掌握高数线代概率论的讨厌花海的学生了。可事实上除了花海符合实际其余都只知名字怎么写而已。到底是怪老师没有讲清楚知识呢？还是怪我们自己没有好好学？还是怪这么课本身就不适合在我们学院开？其实学到ml还是可以知道这些知识运用很广泛，还是挺有用、挺有意思的，但是我们的课程根本不可能讲到那里去，课时太少，练习不够。由此我又想到本科阶段到底该学些什么；以我跟老师们的接触，他们大多都说该打好基础，我也赞同，但是我们开的这些课有没有达到这种目的呢？哪些课能显著体现计算机的基础？都是值得大家一起思考的问题。比如现在看ml就严重感觉到线代中矩阵的知识忘得差不多了，那才能让人感觉到什么叫基础，像我们所开过的数电、大物等课程有基础作用吗？似乎感觉有些偏了…… 反倒是语言课、数据结构这些课要好好深入学习学习，但是这些课我们又上好了吗？似乎也没有…… 我们的课程安排似乎是想让学生尽量多学些东西，但是顾了广度肯定会顾不上深度，这永远是一对矛盾，又是一个权重的问题。&lt;/p&gt;
+&lt;p&gt;拚命狂赶了两年（？），但是一点也不值得高兴……&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>江阿姨</title>
       <link>https://liam-zhong.github.io/post/%E6%B1%9F%E9%98%BF%E5%A7%A8/</link>
       <pubDate>Sun, 26 May 2024 12:47:31 +0800</pubDate>
       <guid>https://liam-zhong.github.io/post/%E6%B1%9F%E9%98%BF%E5%A7%A8/</guid>
-      <description>江阿姨要我写一篇文章纪念她，我觉得很好玩：一者从高中毕业以后没有再写过记人的文章（其实估计初中后就没写过了），二者人还在这却真真是两年的不相见，实在不知道要怎么开一个头，只好玩地乱写。因为一直觉得记不住的事情就是没有，加之自己的忘形确实太大，所以本文杜撰为主，记忆为辅。又这个时代没有离别，那就我重新造一个“她”来思念：&#xD;以上于中华人民共和国四月三十号所写，至重新动笔已一月有余，遂做个引子。&#xD;小林在念书以前爱和根哥打游戏，也时常收到老王的游戏邀请。对别的事情其实没有太关心。嗳，横在面前的是旧人新的聊天框，记忆里的无论如何是昔日里的旧人，几个无业游民！这其间好像便增了无限的乐趣，设想遥远的午后又遇到 阿水 …….于是乎笑。&#xD;那么阿水是谁呢？来得一个唐突，却极容易答覆，有了那一个“她”便答覆了一半，在小林的记忆里是熟得忘记了的一位翠翠，而一天之中便能在他的瞳孔里长大了，那么好看的一个三姑娘。究竟有一点不自首肯，心之波流有如逝者，哪里有一个截得断的波说这是在那里推澜？于是开始地——&#xA;蟪蛄不知春秋&#xA;阿水的样子很不坏。印象里其实一个无着落。大概近乎清水惊蜓，游于绿竹的美之中，一叶下来便是天下春了。春眠不觉晓，眼见的开始是阿水的头发林，教人疑心子美诗一点不贴切。小林见过阿水披发的样子，站在那里就要立刻得的一棵细柳，因为她的头发拖得快近地，笑说要引她到高山上去挂发，教她的头发成了人间的瀑布。细想又很糟糕，岂不是怒发冲天不好看了 教阿水高歌当泣，忙说窗外的树好，顺手摇了摇进教室的那树，飒飒的一响要在眼波里晕开想象中的泪水。这是要讲阿水的“那扇窗”了：清彻，一如桃花潭水，声响是没有声响，而桃花不能躲避它的红。而后是一闪一闪亮晶晶，接着🦊也来了，玫瑰就燃起来了，轻红就弗花脸了。这是讲再看阿水的脸就要红起来。&#xA;阿水讲话不太好听，这是可以被轻松论证的：&#xA;我认为她讲话不好听&#xA;我认识的人认为她讲话不好听&#xA;这两点都难以证明。小林倒倾向与这样认为，因为这是生平第一次听见有人在他面前说&#xA;“欸，你怎么变丑了？”&#xD;霎时间是天雷阵阵，山崩地裂，海枯石烂，风雨如晦而又立刻万籁俱静去。似乎说得在理！ 便不再理会，栽我的瞌睡去。人总有一个留纪念的意思。所以庄周一派的旷达，总不能说是近人情。泰哥尔《飞鸟集》有一章云，&#xA;愿生者有那不朽的爱，死者有那不朽的名&#xA;将此意说得最有情趣，令人觉得人生可敬可爱。中国读书人的生活总是那么的干燥无味：动不动以好名不好名来品评人，其实名是啥物事？好名又是啥物事？本着朴实的感情，好名怎么算得一件不好的事呢？生平或者身后留得好的名声，不正同我们愿被人怀念着是一样的心事么？人生虽短，令名则长，大丈夫真是被应该留丑百世。看官，不要把自己也骗到了。&#xA;所以阿水讲话究竟好不好听呢？在小林这里是不好听的。&#xA;阿水的字我从来没见过，想象中是很娟秀的一笔字，正如其人。&#xA;阿水总不爱收拾。这与小林的想象、大众所熟知的印象都是迥乎不同的。清早起来没有机会得知她如何拾掇自己的头发林，可对于摆在书桌上的东西却是一清二楚，只是一个“乱”字倒显得她的桌子简单了。练习册和课本的堆叠无论如今称不上艺术，不然她自己也不会发出 “欸，我的XX书呢？” 那间教室里的学生爱把自己的东西丢在靠窗的角落，所以小林分不清来窗边的人是远眺波特莱尔的诗歌还是趁机来看他；但对阿水，无疑是来寻那多半不在此的课本。可惜课本不是某人的手表，会说“我在这里” 嗳，两件事均忍俊。课本之外的关系小林与阿水就没有什么交集了，不存在的逗她玩，不存在的问点题，不存在的闲聊以及不存在的送别。&#xA;此去经年，应是良辰好景虚设。便纵有千种风情，更与何人说？&#xA;进房小小的硬床，灯光慢慢移动，阿水不觉很清新，她没有答话，静得很。灯光无助于老师之爱，少女的心又不能自己燃起来——真是随风潜入夜。打着台灯写作业，此时纷白的墙算是最白，除外只有她一人的面孔，头发则是黑而乱了。闭眼便看见河边的鹭鸶，碧水白沙之间阿水在青天下面静得像一根羽毛。浑然不觉安军一门闩把月光都闩出去了。月亮隐在云里去了，阿水也就睡下。&#xA;清早醒来是作业梦里的事了,后面的事情就是她的名字现在几乎没有念出口过了。谈天也是我的一个同学，这实在是一位可爱的姑娘。她对于小儿女是那样富于同情心，她自己分明就是一位小女孩咧：实验报告不给她看，便哭了，多么新鲜的眼泪！真的，真的她是自在的，所谓生香真色人难学也。什么时候会大家闺秀呢，期待那个霁雪夜了。&#xA;未完待续。</description>
+      <description>&lt;p style=&#34;text-indent: 2em;&#34;&gt;
+    江阿姨要我写一篇文章纪念她，我觉得很好玩：一者从高中毕业以后没有再写过记人的文章（其实估计初中后就没写过了），二者人还在这却真真是两年的不相见，实在不知道要怎么开一个头，只好玩地乱写。因为一直觉得记不住的事情就是没有，加之自己的忘形确实太大，所以本文杜撰为主，记忆为辅。又这个时代没有离别，那就我重新造一个“她”来思念：
+&lt;/p&gt;
+&lt;p style=&#34;text-indent: 2em;&#34;&gt;
+    以上于中华人民共和国四月三十号所写，至重新动笔已一月有余，遂做个引子。
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style=&#34;text-indent: 2em;&#34;&gt;
+    小林在念书以前爱和根哥打游戏，也时常收到老王的游戏邀请。对别的事情其实没有太关心。嗳，横在面前的是旧人新的聊天框，记忆里的无论如何是昔日里的旧人，几个无业游民！这其间好像便增了无限的乐趣，设想遥远的午后又遇到 &lt;span style=&#34;color: blue;&#34;&gt;阿水&lt;/span&gt; 
+…….于是乎笑。
+&lt;/p&gt;
+&lt;p&gt;那么阿水是谁呢？来得一个唐突，却极容易答覆，有了那一个“她”便答覆了一半，在小林的记忆里是熟得忘记了的一位&lt;a href=&#34;https://millionbook.net/mj/s/shencongwen/bc/001.htm&#34;&gt;翠翠&lt;/a&gt;，而一天之中便能在他的瞳孔里长大了，那么好看的一个&lt;a href=&#34;https://millionbook.net/xd/f/feiming/000/017.htm&#34;&gt;三姑娘&lt;/a&gt;。究竟有一点不自首肯，心之波流有如逝者，哪里有一个截得断的波说这是在那里推澜？于是开始地——&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;蟪蛄不知春秋&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;阿水的样子很不坏。&lt;em&gt;印象里其实一个无着落&lt;/em&gt;。大概近乎清水惊蜓，游于绿竹的美之中，一叶下来便是天下春了。春眠不觉晓，眼见的开始是阿水的头发林，教人疑心&lt;a href=&#34;https://so.gushiwen.cn/mingju/juv_044a08fecb20.aspx&#34;&gt;子美诗&lt;/a&gt;一点不贴切。小林见过阿水披发的样子，站在那里就要立刻得的一棵细柳，因为她的头发拖得快近地，笑说要引她到高山上去挂发，教她的头发成了人间的瀑布。&lt;em&gt;细想又很糟糕，岂不是怒发冲天不好看了 教阿水高歌当泣&lt;/em&gt;，忙说窗外的树好，顺手摇了摇进教室的那树，飒飒的一响要在眼波里晕开想象中的泪水。这是要讲阿水的“那扇窗”了：清彻，一如桃花潭水，声响是没有声响，而桃花不能躲避它的红。而后是一闪一闪亮晶晶，接着🦊也来了，玫瑰就&lt;a href=&#34;https://so.gushiwen.cn/mingju/juv_12e137130c19.aspx&#34;&gt;燃&lt;/a&gt;起来了，轻红就弗花脸了。这是讲再看阿水的脸就要红起来。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;阿水讲话不太好听，这是可以被轻松论证的：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;我认为她讲话不好听&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我认识的人认为她讲话不好听&lt;/p&gt;
+&lt;p&gt;这两点都难以证明。小林倒倾向与这样认为，因为这是生平第一次听见有人在他面前说&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style=&#34;text-align: center; font-style: italic;&#34;&gt;
+    “欸，你怎么变丑了？”
+&lt;/p&gt;
+&lt;p&gt;霎时间是天雷阵阵，山崩地裂，海枯石烂，风雨如晦而又立刻万籁俱静去。&lt;em&gt;似乎说得在理！&lt;/em&gt; 便不再理会，栽我的瞌睡去。人总有一个留纪念的意思。所以庄周一派的旷达，总不能说是近人情。泰哥尔《飞鸟集》有一章云，&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;愿生者有那不朽的爱，死者有那不朽的名&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;将此意说得最有情趣，令人觉得人生可敬可爱。中国读书人的生活总是那么的干燥无味：动不动以好名不好名来品评人，其实名是啥物事？好名又是啥物事？本着朴实的感情，好名怎么算得一件不好的事呢？生平或者身后留得好的名声，不正同我们愿被人怀念着是一样的心事么？人生虽短，令名则长，大丈夫真是被应该留丑百世。看官，不要把自己也骗到了。&lt;/p&gt;
+&lt;p&gt;所以阿水讲话究竟好不好听呢？在小林这里是不好听的。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;阿水的字我从来没见过，想象中是很娟秀的一笔字，正如其人。&lt;/p&gt;
+&lt;p&gt;阿水总不爱收拾。这与小林的想象、大众所熟知的印象都是迥乎不同的。清早起来没有机会得知她如何拾掇自己的头发林，可对于摆在书桌上的东西却是一清二楚，只是一个“乱”字倒显得她的桌子简单了。练习册和课本的堆叠无论如今称不上艺术，不然她自己也不会发出 “欸，我的XX书呢？” 那间教室里的学生爱把自己的东西丢在靠窗的角落，所以小林分不清来窗边的人是远眺&lt;a href=&#34;https://blog.wenxuecity.com/myblog/19562/202103/36894.html&#34;&gt;波特莱尔的诗歌&lt;/a&gt;还是趁机来看他；但对阿水，无疑是来寻那多半不在此的课本。可惜课本不是某人的手表，会说“我在这里”  嗳，两件事均忍俊。课本之外的关系小林与阿水就没有什么交集了，不存在的逗她玩，不存在的问点题，不存在的闲聊以及不存在的送别。&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;此去经年，应是良辰好景虚设。便纵有千种风情，更与何人说？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;进房小小的硬床，灯光慢慢移动，阿水不觉很清新，她没有答话，静得很。灯光无助于老师之爱，少女的心又不能自己燃起来——真是随风潜入夜。打着台灯写作业，此时纷白的墙算是最白，除外只有她一人的面孔，头发则是黑而乱了。闭眼便看见河边的鹭鸶，碧水白沙之间阿水在青天下面静得像一根羽毛。浑然不觉安军一门闩把月光都闩出去了。月亮隐在云里去了，阿水也就睡下。&lt;/p&gt;
+&lt;p&gt;清早醒来是作业梦里的事了,后面的事情就是她的名字现在几乎没有念出口过了。谈天也是我的一个同学，这实在是一位可爱的姑娘。她对于小儿女是那样富于同情心，她自己分明就是一位小女孩咧：实验报告不给她看，便哭了，多么新鲜的眼泪！真的，真的她是自在的，所谓生香真色人难学也。什么时候会大家闺秀呢，期待那个霁雪夜了。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;未完待续。&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>建站指北</title>
       <link>https://liam-zhong.github.io/post/%E5%BB%BA%E7%AB%99%E6%8C%87%E5%8C%97/</link>
       <pubDate>Sun, 26 May 2024 11:20:57 +0800</pubDate>
       <guid>https://liam-zhong.github.io/post/%E5%BB%BA%E7%AB%99%E6%8C%87%E5%8C%97/</guid>
-      <description>原文见如何用 GitHub Pages + Hugo 搭建个人博客 · 小绵尾巴 (cuttontail.blog) 整个过程均为Windows环境 0.部落格 部落格是什么？为什么要建立它？&#xA;部落格（博客）是一种在线日记型式的个人网站，借由张帖子章、图片或影片来记录生活、抒发情感或分享信息。博客上的文章通常根据张贴时间，以倒序方式由新到旧排列。许多博客作者专注评论特定的课题或新闻，其他则作为个人日记。一个典型的博客结合了文字、图像、其他博客或网站的超链接、及其它与主题相关的媒体。能够让读者以互动的方式留下意见，是许多博客的重要要素。大部分的博客内容以文字为主，也有一些博客专注艺术、摄影、视频、音乐、播客等各种主题。博客是社会媒体网络的一部分。——维基百科&#xA;一直认为一件事情如果你忘记了那么它就不存在。“记录”从古至今都是很有仪（niu）式（ben）感的事情：登高作赋，临泉赋诗，兰亭修序...甚至还要画张山水裱起来，聊以服人。如今人们爱用朋友圈（个人很鄙夷路上奔波之后的所谓“又是自由的一天”）记录生活也差不多是这个道理，只是依赖于微信总让人不舒服，因此自己搭一个部落格是一件很棒很酷的事情，否则怎么算会“上网”呢？本文便是出于这样的目的，争取让每个人都可以零基础搭建自己的部落格。&#xD;这篇教程假设你已经：&#xA;会谷歌 有一个 GitHub账号 有自己偏好的代码编辑器（我使用的是Typora） 如果你满足以上条件那就开始吧！&#xA;1. 安装 Hugo 点击Release v0.126.1 · gohugoio/hugo (github.com)并下滑找到hugo_0.126.1_windows-amd64.zip，点击下载。(本文写于2024年5月26号，你下载的时候版本可能已经更新) 把下载好的.zip文件解压，并放置在你想放的文件夹中（我的路径：D:\DevTools\Hugo，也就是说现在Hugo目录下有一个名为hugo_0.126.1_windows-amd64的文件夹），打开设置，搜索“编辑系统环境变量”，在弹出的“系统属性”窗口中点击“环境变量”，再在弹出的“环境变量”窗口的’系统变量“中选中 Path 路径，并点击编辑。通过右侧的“新建”按钮，将[D:\DevTools\Hugo\hugo_0.126.1_windows-amd64]添加到环境变量。（根据自己的路径修改）&#xA;WIN+D回到桌面，右键选择”在 Windows终端 中打开“。输入&#xA;hugo version 一切正常的话会显示你目前安装的版本号。&#xA;2. 创建 GitHub 仓库 2.1 创建博客源仓库 命名博客源仓库（我使用的是demo） 勾选 Public，设置为公开仓库。 勾选添加 README 文件 2.2 创建 GitHub Page 仓库 命名 GitHub Pages 仓库，这个仓库必须使用特殊的命名格式 &amp;lt;username.github.io&amp;gt;， &amp;lt;username&amp;gt; 是你自己的 GitHub 的用户名。 勾选 Public，设置为公开仓库。 勾选添加 README 文件，这会设置 main 分支为仓库的默认主分支，这在后面提交推送博客内容时很重要。 3.</description>
+      <description>&lt;h4 id=&#34;原文见如何用-github-pages--hugo-搭建个人博客--小绵尾巴-cuttontailbloghttpscuttontailblogblogcreate-a-wesite-using-github-pages-and-hugo&#34;&gt;原文见&lt;a href=&#34;https://cuttontail.blog/blog/create-a-wesite-using-github-pages-and-hugo/&#34;&gt;如何用 GitHub Pages + Hugo 搭建个人博客 · 小绵尾巴 (cuttontail.blog)&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;整个过程均为windows环境&#34;&gt;整个过程均为Windows环境&lt;/h4&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;0部落格&#34;&gt;0.部落格&lt;/h2&gt;
+&lt;p&gt;部落格是什么？为什么要建立它？&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;部落格（博客）是一种在线日记型式的个人网站，借由张帖子章、图片或影片来记录生活、抒发情感或分享信息。博客上的文章通常根据张贴时间，以倒序方式由新到旧排列。许多博客作者专注评论特定的课题或新闻，其他则作为个人日记。一个典型的博客结合了文字、图像、其他博客或网站的超链接、及其它与主题相关的媒体。能够让读者以互动的方式留下意见，是许多博客的重要要素。大部分的博客内容以文字为主，也有一些博客专注艺术、摄影、视频、音乐、播客等各种主题。博客是社会媒体网络的一部分。——&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E7%B6%B2%E8%AA%8C&#34;&gt;维基百科&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p style=&#34;text-indent: 2em;&#34;&gt;
+    一直认为一件事情如果你忘记了那么它就不存在。“记录”从古至今都是很有仪（niu）式（ben）感的事情：登高作赋，临泉赋诗，兰亭修序...甚至还要画张山水裱起来，聊以服人。如今人们爱用朋友圈（个人很鄙夷路上奔波之后的所谓“又是自由的一天”）记录生活也差不多是这个道理，只是依赖于微信总让人不舒服，因此自己搭一个部落格是一件很棒很酷的事情，否则怎么算会“上网”呢？本文便是出于这样的目的，争取让每个人都可以零基础搭建自己的部落格。
+&lt;/p&gt;
+&lt;p&gt;这篇教程假设你已经：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;会&lt;a href=&#34;https://google.com/&#34;&gt;谷歌&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;有一个 &lt;a href=&#34;https://github.com/&#34;&gt;GitHub&lt;/a&gt;账号&lt;/li&gt;
+&lt;li&gt;有自己偏好的代码编辑器（我使用的是&lt;a href=&#34;https://typora.io/&#34;&gt;Typora&lt;/a&gt;）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;如果你满足以上条件&lt;strong&gt;那就开始吧！&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;1-安装-hugo&#34;&gt;1. 安装 Hugo&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;点击&lt;a href=&#34;https://github.com/gohugoio/hugo/releases/tag/v0.126.1&#34;&gt;Release v0.126.1 · gohugoio/hugo (github.com)&lt;/a&gt;并下滑找到hugo_0.126.1_windows-amd64.zip，点击下载。(本文写于2024年5月26号，你下载的时候版本可能已经更新)
+&lt;img src=&#34;https://pic3.zhimg.com/80/v2-e0d9fd92a6ed78579e4dbaf223d20602_1440w.webp&#34; alt=&#34;版本选择&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;把下载好的.zip文件解压，并放置在你想放的文件夹中（我的路径：&lt;code&gt;D:\DevTools\Hugo&lt;/code&gt;，也就是说现在Hugo目录下有一个名为&lt;code&gt;hugo_0.126.1_windows-amd64&lt;/code&gt;的文件夹），打开设置，搜索“编辑系统环境变量”，在弹出的“系统属性”窗口中点击“环境变量”，再在弹出的“环境变量”窗口的’系统变量“中选中 Path 路径，并点击编辑。通过右侧的“新建”按钮，将[&lt;code&gt;D:\DevTools\Hugo\hugo_0.126.1_windows-amd64&lt;/code&gt;]添加到环境变量。（根据自己的路径修改）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;WIN+D回到桌面，右键选择”在 Windows终端 中打开“。输入&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo version
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;一切正常的话会显示你目前安装的版本号。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/80/v2-0da4527059ac8dee7484e9ee28be7446_1440w.webp&#34; alt=&#34;hugo version&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;2-创建-github-仓库&#34;&gt;2. 创建 GitHub 仓库&lt;/h2&gt;
+&lt;h3 id=&#34;21-创建博客源仓库&#34;&gt;2.1 创建博客源仓库&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;命名&lt;strong&gt;博客源仓库&lt;/strong&gt;（我使用的是&lt;code&gt;demo&lt;/code&gt;）&lt;/li&gt;
+&lt;li&gt;勾选 &lt;strong&gt;Public&lt;/strong&gt;，设置为公开仓库。&lt;/li&gt;
+&lt;li&gt;勾选添加 &lt;strong&gt;README&lt;/strong&gt; 文件&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/80/v2-c718ed26fa965c2b5f9dcf16a59407a6_1440w.webp&#34; alt=&#34;创建demo仓库&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;22-创建-github-page-仓库&#34;&gt;2.2 创建 GitHub Page 仓库&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;命名 &lt;strong&gt;GitHub Pages&lt;/strong&gt; 仓库，这个仓库必须使用特殊的命名格式 &lt;code&gt;&amp;lt;username.github.io&amp;gt;&lt;/code&gt;， &lt;code&gt;&amp;lt;username&amp;gt;&lt;/code&gt; 是你自己的 GitHub 的用户名。&lt;/li&gt;
+&lt;li&gt;勾选 &lt;strong&gt;Public&lt;/strong&gt;，设置为公开仓库。&lt;/li&gt;
+&lt;li&gt;勾选添加 &lt;strong&gt;README&lt;/strong&gt; 文件，这会设置 &lt;code&gt;main&lt;/code&gt; 分支为仓库的默认主分支，这在后面提交推送博客内容时很重要。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/80/v2-7f6ec7526783a49527733d1b6dbdb576_1440w.webp&#34; alt=&#34;创建name.github.io仓库&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;3-克隆博客源仓库到本地&#34;&gt;3. 克隆博客源仓库到本地&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;打开想要在本地储存项目的文件夹（比如我的项目的文件夹是 &lt;code&gt;Websites&lt;/code&gt; ）&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;cd D:&lt;span style=&#34;color:#ae81ff&#34;&gt;\D&lt;/span&gt;evTools&lt;span style=&#34;color:#ae81ff&#34;&gt;\H&lt;/span&gt;ugo&lt;span style=&#34;color:#ae81ff&#34;&gt;\W&lt;/span&gt;ebsites
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;克隆&lt;strong&gt;博客源仓库&lt;/strong&gt;到项目文件夹，克隆时使用的 HTTPS 仓库链接在这里查看：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic1.zhimg.com/80/v2-260acddc6e0acbb6187797cfcf726784_1440w.webp&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git clone https://github.com/Liam-Zhong/demo.git
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;4-使用-hugo-创建网站&#34;&gt;4. 使用 Hugo 创建网站&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;进入刚刚克隆下来的&lt;strong&gt;博客源仓库&lt;/strong&gt;文件夹（比如：我的博客源仓库文件夹名是 &lt;code&gt;demo&lt;/code&gt;，则&lt;code&gt;cd demo&lt;/code&gt; ），在这个文件夹里用 Hugo 创建一个网站文件夹。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;用 Hugo 创建网站文件夹的命令是 &lt;code&gt;hugo new site 网站名字&lt;/code&gt;。(比如，我的命名是 &lt;code&gt;my-blog&lt;/code&gt;)&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;cd demo
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo new site my-blog
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;5-安装和配置-hugo-主题&#34;&gt;5. 安装和配置 Hugo 主题&lt;/h2&gt;
+&lt;h3 id=&#34;51-选择-hugo-主题&#34;&gt;5.1 选择 Hugo 主题&lt;/h3&gt;
+&lt;p&gt;可以从 &lt;a href=&#34;https://themes.gohugo.io/&#34;&gt;Hugo 社区提供的主题&lt;/a&gt;中选择一个喜欢的主题应用在自己的网站中。&lt;/p&gt;
+&lt;h3 id=&#34;52-安装-hugo-主题&#34;&gt;5.2 安装 Hugo 主题&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;一般在你选择的 Hugo 主题的文档中，都会给出「如何安装这个主题」的命令，比如我选用的Paper的文档中给出：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic1.zhimg.com/80/v2-92bff148a599f592c3fbad4e454cbaa4_1440w.webp&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;打开刚刚用 Hugo 创建的网站文件夹（我的是 my-blog），在终端(可以&lt;code&gt;cd my-blog&lt;/code&gt;也可以在这个目录下直接右键并选择”在 Windows终端 中打开“ )粘贴文档中给出的安装命令。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git submodule add https://github.com/nanxiaobei/hugo-paper themes/paper
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;这时可以看到在&lt;code&gt;themes&lt;/code&gt;文件夹中，多出了刚刚安装的主题文件，代表主题安装成功。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;53-配置-hugo-主题&#34;&gt;5.3 配置 Hugo 主题&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;一般安装的 Hugo 主题的文件结构中都会有 &lt;code&gt;exampleSite&lt;/code&gt; 文件夹，也是你在选择主题时参考的网站 demo。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;把 &lt;code&gt;exampleSite&lt;/code&gt; 的文件复制到站点目录，在此基础上进行基础配置&lt;/strong&gt;。 非常推荐这么做，这样做能解决很多「为什么明明跟教程一步一步做下来，显示的结果却不一样？」的疑惑。（这主要是因为不同的主题模版配置文件不同导致的。）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在把&lt;code&gt;exampleSite&lt;/code&gt;文件复制到站点目录时，请根据&lt;strong&gt;对应&lt;/strong&gt;文件夹进行复制文件&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;比如&lt;code&gt;exampleSite&lt;/code&gt;下有&lt;code&gt;content&lt;/code&gt;、&lt;code&gt;layouts&lt;/code&gt;、&lt;code&gt;static&lt;/code&gt;3 个文件，就找到你自己的站点跟目录下这对应的三个文件。再把对应目录中的内容分别复制过去。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic2.zhimg.com/80/v2-8b33d3e652e6be714b1e2a0ad325f109_1440w.webp&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;其中在复制&lt;code&gt;config.toml&lt;/code&gt;的内容时要注意：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;baseURL&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;baseURL &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;https://example.com/&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;#把https://example.com/改成自己的域名&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;如果你没有在 GitHub Pages 中设置自定义域名，这里的域名应该填&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;https://&amp;lt;username&amp;gt;.github.io/
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;（⚠️ 注意：最后的/不要忘了加）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;6-用-hugo-创建文章&#34;&gt;6. 用 Hugo 创建文章&lt;/h2&gt;
+&lt;p&gt;用 Hugo 创建一篇文章的命令是:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo new xxx.md
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;用这个命令创建的 Markdown 文件会套用 &lt;code&gt;archetypes&lt;/code&gt; 文件夹中的 front matter 模版，在空白处用 Markdown 写入内容。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/80/v2-9c1f132b5e56f0fa698fb89f315f44ce_1440w.webp&#34; alt=&#34;md&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;draft: true&lt;/code&gt;代表这篇文章是一个草稿，Hugo 不会显示草稿，要在主页显示添加的文章，可以设置 &lt;code&gt;draft: false&lt;/code&gt;；或者直接删掉这行。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;7-本地调试和预览&#34;&gt;7. 本地调试和预览&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;在发布到网站前可以在本地预览网站或内容的效果 ，运行命令：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo server
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/80/v2-5fede2c71c8b1e16d91230f7063ac6c2_1440w.webp&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;也可以在本地编辑 Markdown 文件时，通过 &lt;code&gt;hugo server&lt;/code&gt; 来实时预览显示效果。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo server
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;运行成功后，可以在http://localhost:1313/中预览网站&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic2.zhimg.com/80/v2-b4d43a48f7e89b455c5be36cbc074891_1440w.webp&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;8-发布内容&#34;&gt;8. 发布内容&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;hugo&lt;/code&gt; 命令可以将你写的 Markdown 文件生成静态 HTML 网页，生成的 HTML 文件默认存放在 &lt;code&gt;public&lt;/code&gt; 中。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/80/v2-f714d4d90fe506faa8de023546366626_1440w.webp&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;因为&lt;code&gt;hugo&lt;/code&gt; 生成的静态 HTML 网页文件默认存放在  &lt;code&gt;public&lt;/code&gt; 文件中，所以推送网页内容只需要把  &lt;code&gt;public&lt;/code&gt; 中的 HTML 网页文件发布到 GitHub Pages 仓库中。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;将  &lt;code&gt;public&lt;/code&gt; 文件夹初始化为 Git 仓库，并设置默认主分支名为  &lt;code&gt;main&lt;/code&gt;。这么做的原因是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub 创建仓库时生成的默认主分支名是 &lt;code&gt;main&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;用 &lt;code&gt;git init&lt;/code&gt; 初始化 Git 仓库时创建的默认主分支名是 &lt;code&gt;master&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;将 &lt;code&gt;git init&lt;/code&gt; 创建的 &lt;code&gt;master&lt;/code&gt; 修改成 &lt;code&gt;main&lt;/code&gt; ，再推送给远端仓库 &lt;code&gt;&amp;lt;username&amp;gt;.github.io&lt;/code&gt; ，这样才不会报错。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;cd public
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git init -b main
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/80/v2-dc64e179de67231c963137d6ca2fb92e_1440w.webp&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;将 &lt;code&gt;public&lt;/code&gt; 文件夹关联远程 GitHub Pages 仓库，使用 GitHub Pages 仓库的 SSH 链接。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;（ ⚠️ 注意：要让 SSH 链接起作用，需要你添加过 SSH Key。如果你没有设置过 SSH Key，请参考&lt;a href=&#34;https://docs.github.com/zh/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account&#34;&gt;新增 SSH 密钥到 GitHub 帐户 - GitHub 文档&lt;/a&gt;）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;GitHub Pages 仓库的 SSH 链接可以在这里查看：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/80/v2-a23dd95817f28f6f662c6174db505c86_1440w.webp&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git git@github.com:Liam-Zhong/Liam-Zhong.github.io.git
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;推送&lt;strong&gt;博客源仓库&lt;/strong&gt;的  &lt;code&gt;public&lt;/code&gt; 文件夹中的 HTML 网页文件到 &lt;strong&gt;GitHub Pages 仓库&lt;/strong&gt; 中，在推送仓库内容前要先用 &lt;code&gt;git pull --rebase origin main&lt;/code&gt; 和远端仓库同步，否则会报错。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git pull --rebase origin main
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git add .
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git commit -m &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;...(changes)&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git push origin main
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;转到 GitHub 查看 &lt;strong&gt;GitHub Pages 仓库&lt;/strong&gt;中是否存在刚刚推送的文件，存在则代表推送成功。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如果你没有设置自定义域名，且把 &lt;code&gt;comfig.toml&lt;/code&gt; 文件中的 &lt;code&gt;baseURL&lt;/code&gt; 设置为 &lt;code&gt;https://&amp;lt;username&amp;gt;.github.io&lt;/code&gt;，就可以在 &lt;a href=&#34;https://cuttontail.blog/blog/create-a-wesite-using-github-pages-and-hugo/&#34;&gt;https://username.github.io&lt;/a&gt; 中查看刚刚创建的网站。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;后续的更新步骤：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;创建你的文章&lt;code&gt;xxx.md&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;用 &lt;code&gt;hugo server&lt;/code&gt; 在本地预览，满意后准备发布。&lt;/li&gt;
+&lt;li&gt;运行 &lt;code&gt;hugo&lt;/code&gt; 命令将 Markdown 文件生成 HTML 文件。&lt;/li&gt;
+&lt;li&gt;将修改先提交至&lt;strong&gt;博客源仓库&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git add .
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git commit -m &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;...(changes)&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git push
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol&gt;
+&lt;li&gt;打开 &lt;code&gt;public&lt;/code&gt; 文件&lt;/li&gt;
+&lt;li&gt;运行：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git add .
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git commit -m &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;...(changes)&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git push origin main
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;以上。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
+    
     <item>
       <title>Demo01</title>
       <link>https://liam-zhong.github.io/post/demo01/</link>
       <pubDate>Sun, 26 May 2024 11:18:23 +0800</pubDate>
       <guid>https://liam-zhong.github.io/post/demo01/</guid>
-      <description>这是我的第一篇博客&#xA;HELLO WORLD！</description>
+      <description>&lt;p&gt;这是我的第一篇博客&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;HELLO WORLD！&lt;/code&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://liam-zhong.github.io/archives/</link>
@@ -86,19 +666,77 @@
       <guid>https://liam-zhong.github.io/archives/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>About</title>
       <link>https://liam-zhong.github.io/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://liam-zhong.github.io/about/</guid>
-      <description>我是谁 活人。&#xA;写作原则 不定期记日记。在22年八月里决心要写日记，写了不过几个字就晒网去了。 文字是对偶像风格的拙劣模仿。 在知乎发想法是很好的Markdown插图方式。 现今行记录之事，不需要正襟危坐在夜里挥那只万年笔，不需要忧虑被别人窥探。自己写自己的事情，随时随地。我在过去的几年之内，有种种不同的心情，想起来很爱惜，越幼稚，“不洁净”，越爱惜得利害，可惜有许多现在已经捉不住了。情愿不懒。&#xA;一些人 排名不分先后&#xA;我爸：他这辈子真的很不容易&#xA;张鑫：一个苦人，我这里的好友&#xA;程云龙：好老师&#xA;刘星：引路人,powerful&#xA;XX:对爱情的祛魅&#xA;赵姜涵：好哥哥！&#xA;未完待续。&#xA;软件 Python：人生苦短&amp;hellip; Hugo：静态网站生成器 </description>
+      <description>&lt;h2 id=&#34;h2-align--center我是谁h2&#34;&gt;&lt;h2 align = &#34;center&#34;&gt;我是谁&lt;/h2&gt;&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;活人。&lt;/p&gt;
+&lt;h2 id=&#34;h2-align--center写作原则h2&#34;&gt;&lt;h2 align = &#34;center&#34;&gt;写作原则&lt;/h2&gt;&lt;/h2&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li&gt;不定期记日记。在22年八月里决心要写日记，写了不过几个字就晒网去了。&lt;/li&gt;
+&lt;li&gt;文字是对&lt;a href=&#34;https://baike.baidu.com/item/%E5%BA%9F%E5%90%8D/3243892&#34;&gt;偶像&lt;/a&gt;风格的拙劣模仿。&lt;/li&gt;
+&lt;li&gt;在知乎发想法是很好的Markdown插图方式。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;现今行记录之事，不需要正襟危坐在夜里挥那只万年笔，不需要忧虑被别人窥探。自己写自己的事情，随时随地。我在过去的几年之内，有种种不同的心情，想起来很爱惜，越幼稚，“不洁净”，越爱惜得利害，可惜有许多现在已经捉不住了。情愿不懒。&lt;/p&gt;
+&lt;h2 id=&#34;h2-align--center一些人h2&#34;&gt;&lt;h2 align = &#34;center&#34;&gt;一些人&lt;/h2&gt;&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;排名不分先后&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;我爸：他这辈子真的很不容易&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.zhihu.com/people/xian-chi-70-72&#34;&gt;张鑫&lt;/a&gt;：一个苦人，我这里的好友&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;程云龙：好老师&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://b23.tv/mz9muoW&#34;&gt;刘星&lt;/a&gt;：引路人,powerful&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;XX:对爱情的祛魅&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;赵姜涵：好哥哥！&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;未完待续。&lt;/p&gt;
+&lt;h2 id=&#34;h2-align--center软件h2&#34;&gt;&lt;h2 align = &#34;center&#34;&gt;软件&lt;/h2&gt;&lt;/h2&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.python.org/&#34;&gt;Python&lt;/a&gt;：人生苦短&amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;：静态网站生成器&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
+    
     <item>
       <title>Contact</title>
       <link>https://liam-zhong.github.io/contact/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://liam-zhong.github.io/contact/</guid>
-      <description>Github|Liam-Zhong (赵连硕)&#xA;知乎|春晼&#xA;邮件|chlzhong@outlook.com&#xA;Blog|承霖的部落格</description>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Github|&lt;a href=&#34;https://github.com/Liam-Zhong/&#34;&gt;Liam-Zhong (赵连硕)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;知乎|&lt;a href=&#34;https://www.zhihu.com/people/zhongcl-jiang&#34;&gt;春晼&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;邮件|chlzhong@outlook.com&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Blog|&lt;a href=&#34;https://liam-zhong.github.io/&#34;&gt;承霖的部落格&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
+    
   </channel>
 </rss>
