@@ -19,7 +19,6 @@ title = "承霖的部落格"
 
   twitter = 'ShuoLian62'
   github = 'Liam-Zhong'
-  instagram = ' '
   rss = true
 
   avatar = 'https://pica.zhimg.com/v2-5fe3afc9c57d74165650721e7a38c045_xll.jpg?source=32738c0c'
@@ -46,6 +45,11 @@ title = "承霖的部落格"
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
+    weight = 10
+   [[menu.main]]
+    identifier = "archives"
+    name = "Achives"
+    url = "/archives/"
     weight = 10
 
 [taxonomies]
