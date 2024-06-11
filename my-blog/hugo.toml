@@ -46,7 +46,7 @@ title = "承霖的部落格"
     name = "Contact"
     url = "/contact/"
     weight = 10
-   [[menu.main]]
+  [[menu.main]]
     identifier = "archives"
     name = "Achives"
     url = "/archives/"
