@@ -5,9 +5,9 @@ date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "liam"
 comments = false
+
 +++
 
-- Github|[Liam-Zhong (赵连硕)](https://github.com/Liam-Zhong/)
 
 - 知乎|[春晼](https://www.zhihu.com/people/zhongcl-jiang)
 

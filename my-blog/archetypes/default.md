@@ -1,7 +1,7 @@
 +++
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 date = {{ .Date }}
-math = true                                 # enable KaTeX math typesetting for a specific page
+math = true                                
 draft = false
 comments = true
 +++
