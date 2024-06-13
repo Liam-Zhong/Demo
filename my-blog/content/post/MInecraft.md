@@ -1,9 +1,10 @@
 +++
-title = '脑子一团浆糊'
+title = 'MInecraft'
 date = 2024-06-05T23:39:15+08:00
 math = true                                 # enable KaTeX math typesetting for a specific page
 draft = false
 comments = true
+
 +++
 
 故事的...
@@ -22,4 +23,4 @@ comments = true
 
 真是奇怪，我的事情就跟正弦函数图像一样，一波一波的，人背运的时候就开始迷迷糊糊丢三落四，心情越糟糕事情就越多，这倒是蛮好的，锻炼小林
 
-垂死挣扎！！睡个觉先...今天芒种
+睡个觉先...今天芒种
