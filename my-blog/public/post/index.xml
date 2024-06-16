@@ -16,7 +16,7 @@
 &lt;p&gt;&lt;img src=&#34;https://picx.zhimg.com/80/v2-f4748d9c76d36ea0026c26a0a241a558_1440w.jpeg&#34; alt=&#34;云&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://picx.zhimg.com/80/v2-b63a1903ba88a4ccba757484ffbf9a3a_1440w.jpeg&#34; alt=&#34;云&#34;&gt;&lt;/p&gt;
 &lt;center&gt;&lt;small&gt;深海大菠萝&lt;/small&gt;&lt;/center&gt;
-![戴珍珠耳环的少女](https://picx.zhimg.com/80/v2-8e99b0e9be3aa5ab4fcce5e0616869ff_1440w.jpeg)
+![戴珍珠耳环的少女](https://picx.zhimg.com/80/v2-8e99b0e9be3aa5ab4fcce5e0616869ff_1440w.jpeg?source=d16d100b)
 &lt;center&gt;&lt;small&gt;戴珍珠耳环的少女&lt;/small&gt;&lt;/center&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
@@ -775,7 +775,7 @@
 &lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/80/v2-a23dd95817f28f6f662c6174db505c86_1440w.webp&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git git@github.com:Liam-Zhong/Liam-Zhong.github.io.git
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git remote add origin git@github.com:Liam-Zhong/Liam-Zhong.github.io.git
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;推送&lt;strong&gt;博客源仓库&lt;/strong&gt;的  &lt;code&gt;public&lt;/code&gt; 文件夹中的 HTML 网页文件到 &lt;strong&gt;GitHub Pages 仓库&lt;/strong&gt; 中，在推送仓库内容前要先用 &lt;code&gt;git pull --rebase origin main&lt;/code&gt; 和远端仓库同步，否则会报错。&lt;/p&gt;

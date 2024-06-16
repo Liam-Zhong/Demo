@@ -147,7 +147,7 @@ hugo version 一切正常的话会显示你目前安装的版本号。
 2. 创建 GitHub 仓库 2.1 创建博客源仓库 命名博客源仓库（我使用的是demo） 勾选 Public，设置为公开仓库。 勾选添加 README 文件 2.2 创建 GitHub Page 仓库 命名 GitHub Pages 仓库，这个仓库必须使用特殊的命名格式 &lt;username.github.io&gt;， &lt;username&gt; 是你自己的 GitHub 的用户名。 勾选 Public，设置为公开仓库。 勾选添加 README 文件，这会设置 main 分支为仓库的默认主分支，这在后面提交推送博客内容时很重要。 3.">
   <meta itemprop="datePublished" content="2024-05-26T11:20:57+08:00">
   <meta itemprop="dateModified" content="2024-05-26T11:20:57+08:00">
-  <meta itemprop="wordCount" content="385">
+  <meta itemprop="wordCount" content="388">
   
   <meta property="og:url" content="https://liam-zhong.github.io/post/%E5%BB%BA%E7%AB%99%E6%8C%87%E5%8C%97/">
   <meta property="og:site_name" content="承霖的部落格">
@@ -524,7 +524,7 @@ hugo version 一切正常的话会显示你目前安装的版本号。
 <p><img src="https://pic3.zhimg.com/80/v2-a23dd95817f28f6f662c6174db505c86_1440w.webp" alt="img"></p>
 </li>
 </ul>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>git git@github.com:Liam-Zhong/Liam-Zhong.github.io.git
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>git remote add origin git@github.com:Liam-Zhong/Liam-Zhong.github.io.git
 </span></span></code></pre></div></li>
 <li>
 <p>推送<strong>博客源仓库</strong>的  <code>public</code> 文件夹中的 HTML 网页文件到 <strong>GitHub Pages 仓库</strong> 中，在推送仓库内容前要先用 <code>git pull --rebase origin main</code> 和远端仓库同步，否则会报错。</p>
