@@ -16,7 +16,9 @@ comments = true
 ![云](https://picx.zhimg.com/80/v2-b63a1903ba88a4ccba757484ffbf9a3a_1440w.jpeg)
 
 <center><small>深海大菠萝</small></center>
-![戴珍珠耳环的少女](https://picx.zhimg.com/80/v2-8e99b0e9be3aa5ab4fcce5e0616869ff_1440w.jpeg?source=d16d100b)
+
+![少女](https://picx.zhimg.com/80/v2-8e99b0e9be3aa5ab4fcce5e0616869ff_1440w.jpeg)
+
 
 <center><small>戴珍珠耳环的少女</small></center>
 
