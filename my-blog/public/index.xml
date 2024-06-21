@@ -5,7 +5,57 @@
     <link>https://liam-zhong.github.io/</link>
       <atom:link href="https://liam-zhong.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>承霖的部落格</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh</language><copyright>Copyright © 2004–2024, Steve Francia and the lee.so; all rights reserved.</copyright><lastBuildDate>Thu, 20 Jun 2024 23:55:10 +0800</lastBuildDate>  
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh</language><copyright>Copyright © 2004–2024, Steve Francia and the lee.so; all rights reserved.</copyright><lastBuildDate>Fri, 21 Jun 2024 11:30:27 +0800</lastBuildDate>  
+    <item>
+      <title>奶奶的</title>
+      <link>https://liam-zhong.github.io/post/%E5%A5%B6%E5%A5%B6%E7%9A%84/</link>
+      <pubDate>Fri, 21 Jun 2024 11:30:27 +0800</pubDate>
+      <guid>https://liam-zhong.github.io/post/%E5%A5%B6%E5%A5%B6%E7%9A%84/</guid>
+      <description>&lt;p&gt;这是习思也是奶奶的：&lt;/p&gt;
+&lt;p&gt;这个P事 没做过 再早一点 就爆破
+我想我没听错 你说你bother我
+问了问 你比我老很多
+有的聊很多 有的没有说
+或者 心里想的 指没照做
+收到 我的嘴巴在隐瞒什么
+目前对自己 不是太满意
+一个谢谢 像在付时薪
+如果丢个不 怕你没反应
+是否有得等了 是否空欢喜
+有时太软弱 我有时太懒惰
+有时太敢说 有时又太晚说
+我说 回收到的那个不是我
+怎麽说呢 因为他敢承认&lt;/p&gt;
+&lt;p&gt;奶奶的奶奶的奶奶的奶奶的！
+奶奶的奶奶的奶奶的奶奶的！
+奶奶的奶奶的奶奶的奶奶的！&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;https://picx.zhimg.com/80/v2-168f302dbfdbabccac3077a5d391c773_1440w.png&#34; alt=&#34;奶奶的&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://picx.zhimg.com/80/v2-ea9d4879b9444b96468aeb61d12dd41f_1440w.png&#34; alt=&#34;奶奶的&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;附上解决方案（不知道Excel能不能直接做）&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; pandas &lt;span style=&#34;color:#66d9ef&#34;&gt;as&lt;/span&gt; pd
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;df1 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; pd&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;read_excel(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;data/A04232A1100071011-+成绩上报Excel模板.xls&amp;#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;df2 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; pd&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;read_excel(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;data/雨课堂作业和期中成绩.xlsx&amp;#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# 选择需要列&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;df2 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; df2[[&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;姓名&amp;#39;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;雨课堂作业折合分=总分/18*0.2&amp;#39;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;期中成绩&amp;#39;&lt;/span&gt;]]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# 使用姓名列来合并两个DF&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;df_merged &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; pd&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;merge(df1, df2, on&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;姓名&amp;#39;&lt;/span&gt;, how&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;left&amp;#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#之所以head是要查看合并后的名字&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;df_merged&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;head()
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# 更新成绩列&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;df1[&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;雨课堂作业折合分=总分/18*0.2&amp;#39;&lt;/span&gt;] &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; df_merged[&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;雨课堂作业折合分=总分/18*0.2_y&amp;#39;&lt;/span&gt;]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;df1[&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;期中成绩&amp;#39;&lt;/span&gt;] &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; df_merged[&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;期中成绩_y&amp;#39;&lt;/span&gt;]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# 保存更新后的Excel文件&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;df1&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;to_excel(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;更新后的成绩表.xlsx&amp;#39;&lt;/span&gt;, index&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;False&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;奶奶的老登&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+      
     <item>
       <title>南山夜雨</title>
       <link>https://liam-zhong.github.io/post/%E5%8D%97%E5%B1%B1%E5%A4%9C%E9%9B%A8/</link>
