@@ -63,7 +63,13 @@
   
   
   
-  <meta name="description" content="" />
+  <meta name="description" content="差分方程 一阶线性差分方程的一般形式为： $ y_{x&#43;1} = ay_x &#43; f(x)$
+齐次方程： 如果 $f(x) = 0$，方程变为齐次方程： $ y_{x&#43;1} = ay_x $ 其解为： $ y_x = C a^x $
+非齐次方程：
+如果 $f(x) = b$： 递推得：
+$$f(n) = \begin{cases} bx&#43;c &amp; \text{如果 } a = 1 \\frac{b}{1-a}&#43;C\cdot a^x &amp; \text{如果 } a \neq 1 \end{cases} $$
+如果 $f(x) = (a_0 &#43; a_1x &#43; \cdots &#43; a_nx^n)b^x$ 其解为：
+$y_x^* = x^k((a_0 &#43; a_1x &#43; \cdots &#43; a_nx^n)b^x)$" />
   <meta name="author" content="Liam" />
   
 
@@ -169,12 +175,27 @@
   
   
   <meta itemprop="name" content="方程">
+  <meta itemprop="description" content="差分方程 一阶线性差分方程的一般形式为： $ y_{x&#43;1} = ay_x &#43; f(x)$
+齐次方程： 如果 $f(x) = 0$，方程变为齐次方程： $ y_{x&#43;1} = ay_x $ 其解为： $ y_x = C a^x $
+非齐次方程：
+如果 $f(x) = b$： 递推得：
+$$f(n) = \begin{cases} bx&#43;c &amp; \text{如果 } a = 1 \\frac{b}{1-a}&#43;C\cdot a^x &amp; \text{如果 } a \neq 1 \end{cases} $$
+如果 $f(x) = (a_0 &#43; a_1x &#43; \cdots &#43; a_nx^n)b^x$ 其解为：
+$y_x^* = x^k((a_0 &#43; a_1x &#43; \cdots &#43; a_nx^n)b^x)$">
   <meta itemprop="datePublished" content="2024-06-22T20:38:44+08:00">
   <meta itemprop="dateModified" content="2024-06-22T20:38:44+08:00">
+  <meta itemprop="wordCount" content="71">
   
   <meta property="og:url" content="https://liam-zhong.github.io/post/%E6%96%B9%E7%A8%8B/">
   <meta property="og:site_name" content="承霖的部落格">
   <meta property="og:title" content="方程">
+  <meta property="og:description" content="差分方程 一阶线性差分方程的一般形式为： $ y_{x&#43;1} = ay_x &#43; f(x)$
+齐次方程： 如果 $f(x) = 0$，方程变为齐次方程： $ y_{x&#43;1} = ay_x $ 其解为： $ y_x = C a^x $
+非齐次方程：
+如果 $f(x) = b$： 递推得：
+$$f(n) = \begin{cases} bx&#43;c &amp; \text{如果 } a = 1 \\frac{b}{1-a}&#43;C\cdot a^x &amp; \text{如果 } a \neq 1 \end{cases} $$
+如果 $f(x) = (a_0 &#43; a_1x &#43; \cdots &#43; a_nx^n)b^x$ 其解为：
+$y_x^* = x^k((a_0 &#43; a_1x &#43; \cdots &#43; a_nx^n)b^x)$">
   <meta property="og:locale" content="zh">
   <meta property="og:type" content="article">
     <meta property="article:section" content="post">
@@ -185,6 +206,13 @@
   
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="方程">
+  <meta name="twitter:description" content="差分方程 一阶线性差分方程的一般形式为： $ y_{x&#43;1} = ay_x &#43; f(x)$
+齐次方程： 如果 $f(x) = 0$，方程变为齐次方程： $ y_{x&#43;1} = ay_x $ 其解为： $ y_x = C a^x $
+非齐次方程：
+如果 $f(x) = b$： 递推得：
+$$f(n) = \begin{cases} bx&#43;c &amp; \text{如果 } a = 1 \\frac{b}{1-a}&#43;C\cdot a^x &amp; \text{如果 } a \neq 1 \end{cases} $$
+如果 $f(x) = (a_0 &#43; a_1x &#43; \cdots &#43; a_nx^n)b^x$ 其解为：
+$y_x^* = x^k((a_0 &#43; a_1x &#43; \cdots &#43; a_nx^n)b^x)$">
 
   
   
@@ -350,7 +378,32 @@
     
   </header>
 
-  <section></section>
+  <section><h2 id="差分方程">差分方程</h2>
+<p>一阶线性差分方程的一般形式为：
+$ y_{x+1} = ay_x + f(x)$</p>
+<ol>
+<li>
+<p><strong>齐次方程：</strong>
+如果 $f(x) = 0$，方程变为齐次方程：
+$ y_{x+1} = ay_x $
+其解为：
+$ y_x = C a^x $</p>
+</li>
+<li>
+<p><strong>非齐次方程：</strong></p>
+<ul>
+<li>如果 $f(x) = b$：</li>
+</ul>
+<p>递推得：</p>
+<p>$$f(n) = \begin{cases} bx+c &amp; \text{如果 } a = 1 \\frac{b}{1-a}+C\cdot a^x &amp; \text{如果 } a \neq 1 \end{cases} $$</p>
+<ul>
+<li>如果 $f(x) = (a_0 + a_1x + \cdots + a_nx^n)b^x$</li>
+</ul>
+<p>其解为：</p>
+<p>$y_x^* = x^k((a_0 + a_1x + \cdots + a_nx^n)b^x)$</p>
+</li>
+</ol>
+</section>
 
   
   

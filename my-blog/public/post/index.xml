@@ -11,7 +11,32 @@
       <link>https://liam-zhong.github.io/post/%E6%96%B9%E7%A8%8B/</link>
       <pubDate>Sat, 22 Jun 2024 20:38:44 +0800</pubDate>
       <guid>https://liam-zhong.github.io/post/%E6%96%B9%E7%A8%8B/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;差分方程&#34;&gt;差分方程&lt;/h2&gt;
+&lt;p&gt;一阶线性差分方程的一般形式为：
+$ y_{x+1} = ay_x + f(x)$&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;齐次方程：&lt;/strong&gt;
+如果 $f(x) = 0$，方程变为齐次方程：
+$ y_{x+1} = ay_x $
+其解为：
+$ y_x = C a^x $&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;非齐次方程：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;如果 $f(x) = b$：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;递推得：&lt;/p&gt;
+&lt;p&gt;$$f(n) = \begin{cases} bx+c &amp;amp; \text{如果 } a = 1 \\frac{b}{1-a}+C\cdot a^x &amp;amp; \text{如果 } a \neq 1 \end{cases} $$&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;如果 $f(x) = (a_0 + a_1x + \cdots + a_nx^n)b^x$&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;其解为：&lt;/p&gt;
+&lt;p&gt;$y_x^* = x^k((a_0 + a_1x + \cdots + a_nx^n)b^x)$&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
       
     <item>
