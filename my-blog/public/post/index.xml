@@ -5,7 +5,81 @@
     <link>https://liam-zhong.github.io/post/</link>
       <atom:link href="https://liam-zhong.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh</language><copyright>Copyright © 2004–2024, Steve Francia and the lee.so; all rights reserved.</copyright><lastBuildDate>Fri, 21 Jun 2024 11:30:27 +0800</lastBuildDate>  
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh</language><copyright>Copyright © 2004–2024, Steve Francia and the lee.so; all rights reserved.</copyright><lastBuildDate>Fri, 21 Jun 2024 22:28:38 +0800</lastBuildDate>  
+    <item>
+      <title>谈情说爱</title>
+      <link>https://liam-zhong.github.io/post/%E8%B0%88%E6%83%85%E8%AF%B4%E7%88%B1/</link>
+      <pubDate>Fri, 21 Jun 2024 22:28:38 +0800</pubDate>
+      <guid>https://liam-zhong.github.io/post/%E8%B0%88%E6%83%85%E8%AF%B4%E7%88%B1/</guid>
+      <description>&lt;p&gt;题目写在这里的时候就注定这是一篇讨厌的抽象文章了，但是不要喷我，喷刘姐去。（事实上【狐狸和猫】那篇文章已经表达了我的看法。）&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;两不相欠&lt;br&gt;
+绝不纠缠&lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://v.qq.com/x/cover/mzc0020030lu5ww/e00476wzsi4.html?ptag=newdouban.movie&#34;&gt;天罡&lt;/a&gt;我劝你多看。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;现在平均年龄78.56岁&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;，四舍五入算80岁。前18年基本在上中国特色主义学校和爱情隔绝，又俗话说婚姻是爱情的坟墓，根据《中国人口普查年鉴-2020》，瓷国男性初婚年龄为29.38岁，女性为27.95岁，四舍五入一下就是30和28岁，取平均29岁。那么中间&lt;strong&gt;11&lt;/strong&gt;年相当于谈了这辈子八十年的恋爱。&lt;/p&gt;
+&lt;p&gt;假设你在结婚前可以谈三段恋爱&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;，那么11年就要变成&lt;strong&gt;3&lt;/strong&gt;年。（什么？为什么另外两个不算？你也不想以后和老伴或是儿孙讲你和ta们的故事吧）我们一天24小时有8小时睡觉，并且无论是大学生还是就业人员，都预留8小时的工作学习时间，那么留给恋爱的时间还有8个小时。也就是说要用&lt;strong&gt;1&lt;/strong&gt;年&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;（8760h）的时间完成恋爱这件事情。&lt;/p&gt;
+&lt;p&gt;根据大名鼎鼎的一万小时定律&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;,在精通恋爱这件事上你和你未来要定终生的那位在时间上是明显不达标的，算上另外两位呢？这里就机械算是达标，但是初恋这个时间点可以认为你是非理性的新手。（什么废话结论）所以对于分手这件事其实没有什么特别值得难过的事情：自然得就像人会死一般。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;说回恋爱，朴素地认为它符合离散数学中&amp;quot;关系&amp;quot;的定义：&lt;/p&gt;
+&lt;p&gt;假设有一个集合 (P)，其中的元素表示一群人。我们可以定义一个恋爱关系 (L)，它是集合 (P) 上的一个二元关系：&lt;/p&gt;
+&lt;p&gt;$L \subseteq P \times P $ 。如果 $(p_1, p_2) \in L $，这表示人 $p_1 $ 和人 $ p_2 $ 处于恋爱关系中。以下根据具体的性质来讨论一下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;自反性&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;对任何一个人 $ p \in P$，我们不要求 $ (p, p) \in L$，不解释了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;对称性&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;如果 $(p_1, p_2) \in L$，那么$ (p_2, p_1) \in L$。这表示如果人 $p_1$和人 $ p_2 $ 处于恋爱关系中，那么人$p_2 $ 和人 $ p_1 $也是如此，符合。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;传递性&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;恋爱关系通常不具备传递性。如果 $ (p_1, p_2) \in L$且 $ (p_2, p_3) \in L $，则$(p_1, p_3) \in L $。这在恋爱关系中通常不成立，因为如果上述条件成立，$p_ 1$ 、$p_2$就是我讨厌的同性恋了，而且&amp;hellip;.打咩打咩太淫乱了&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;综上所述，恋爱关系可以被数学地表示为集合 (P) 上的一个对称的二元关系，但它仅是对称的。&lt;/p&gt;
+&lt;p&gt;那么——&lt;/p&gt;
+&lt;p&gt;哪有什么“你爱而不得”的人呢？这个世界上只有&lt;strong&gt;爱你&lt;/strong&gt;&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;的人才值得你去爱和珍惜。&lt;/p&gt;
+&lt;p&gt;而其它的人再好再优秀，但是唯独不爱你、或者没那么爱，&lt;strong&gt;在离散数学里，这不是恋爱关系&lt;/strong&gt;。而你单方面的喜欢在浪漫（学阿植狠狠地上感婚赋）之外只是在浪费自己的生命。&lt;/p&gt;
+&lt;p&gt;或者说，你爱的哪里是人，分明是在沉醉在自己的欲望里不能自拔。&lt;/p&gt;
+&lt;p&gt;很多恋爱前或者失恋后的文字很美、充满各种意象，并着重描写对方外貌和自己的情绪感受&lt;/p&gt;
+&lt;p&gt;实际上，除了少年敏感的才思或者强说愁的成分之外，这些文字虽全文都在写对方，但实际上只有作者自己，对方是融入背景的一部分，是作者想象中的一部分&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+&lt;p&gt;至于恋爱本身，这个概念和在实施时难免来得抽象，就不谈了。&lt;/p&gt;
+&lt;p&gt;以上。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;但是我喜欢的作家信佛，所以我希望你活在缘分中，而非关系里。&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://tjj.cq.gov.cn/zwgk_233/tjnj/tjnj.html?url=https://tjj.cq.gov.cn/zwgk_233/tjnj/2023/2023cqtjnj.pdf&#34;&gt;统计年鉴 - 重庆市统计局 (cq.gov.cn)&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sohu.com/a/53950451_355486(&#34;&gt;https://www.sohu.com/a/53950451_355486(&lt;/a&gt;我知道这很不专业，但是数据太难找，而且“三”听上去挺合理的)&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;不吃不喝的那种，没啥现实意义，并且没有考虑你每天玩手机的时间&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;一万小时定律真的可以让人成为某个领域的高手吗？ - 赵泠的回答 - 知乎
+&lt;a href=&#34;https://www.zhihu.com/question/509620818/answer/2296987445&#34;&gt;https://www.zhihu.com/question/509620818/answer/2296987445&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34;&gt;
+&lt;p&gt;标准很多，从维持这个关系到陪你左右，心疼你、为你真心实意付出、在你低谷时勇敢共同面对、不抛弃不放弃、支持温暖你再到和“别的男的说话&amp;quot;,看你自己怎么定义&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34;&gt;
+&lt;p&gt;我的文字不是😁&amp;#160;&lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+      
     <item>
       <title>奶奶的</title>
       <link>https://liam-zhong.github.io/post/%E5%A5%B6%E5%A5%B6%E7%9A%84/</link>
@@ -86,7 +160,7 @@
     </item>
       
     <item>
-      <title>吹牛</title>
+      <title>吹牛系列</title>
       <link>https://liam-zhong.github.io/post/%E5%90%B9%E7%89%9B/</link>
       <pubDate>Mon, 17 Jun 2024 17:28:38 +0800</pubDate>
       <guid>https://liam-zhong.github.io/post/%E5%90%B9%E7%89%9B/</guid>
