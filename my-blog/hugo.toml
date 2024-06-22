@@ -84,6 +84,11 @@ series = "series"
   [services.twitter]
     disableInlineCSS = true
 
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
 [params.cusdis]
   enable = true
   app_id = "6c8fd496-b686-4bb1-aac6-8276c867aa7a"
