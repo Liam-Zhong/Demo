@@ -7,35 +7,204 @@
     <description>承霖的部落格</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh</language><copyright>Copyright © 2004–2024, Steve Francia and the lee.so; all rights reserved.</copyright><lastBuildDate>Sat, 22 Jun 2024 20:38:44 +0800</lastBuildDate>  
     <item>
-      <title>方程</title>
+      <title>学习资料-应付考试版</title>
       <link>https://liam-zhong.github.io/post/equation/</link>
       <pubDate>Sat, 22 Jun 2024 20:38:44 +0800</pubDate>
       <guid>https://liam-zhong.github.io/post/equation/</guid>
-      <description>&lt;h2 id=&#34;差分方程&#34;&gt;差分方程&lt;/h2&gt;
-&lt;p&gt;一阶线性差分方程的一般形式为：
-$ y_{x+1} = ay_x + f(x)$&lt;/p&gt;
+      <description>&lt;h2 id=&#34;考纲&#34;&gt;考纲：&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;排队论模型&lt;/strong&gt;：学习简单的排队论模型的建模方法，熟悉和掌握排队系统中的平均队长、平均顾客数、系统中顾客退留时间、队列中顾客等待时间等的计算。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;规划论模型&lt;/strong&gt;：学习掌握数学规划：线性规划、整数规划、目标规划、动态规划等相关概念和理论，并且要求能用相关的方法建立对应的数学规划模型和求解。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;插值与拟合建模&lt;/strong&gt;：掌握曲线拟合、插值的基本方法，学会用插值、拟合作数据处理。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;回归分析模型&lt;/strong&gt;：学习掌握线性回归与非线性回归的相关概念和理论，并且要求能用相关的最小二乘方法建立对应的回归分析模型，井能进行相关的概率统计进行检验。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;差分方程模型&lt;/strong&gt;：了解差分法的基本思想，学会建立实际问题的离散模型，掌握递推、迭代法等求解过程，理解和掌握蛛网模型、银行货款等问题。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;常微分方程模型&lt;/strong&gt;：熟悉微分方程建模的基本步骤，掌握线性微分方程建模基本方法，了解非线性微分方程模型的一些特殊性质：熟悉微分方程的解法。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;决策论模型&lt;/strong&gt;：掌握決策论的基本理论及其应用。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;图和网络模型&lt;/strong&gt;：掌握最短路、最小生成树、最大流等的原理与求解。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;一排队论模型&#34;&gt;一、排队论模型&lt;/h3&gt;
+&lt;p&gt;。。。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;二规划论模型&#34;&gt;二、规划论模型&lt;/h3&gt;
+&lt;p&gt;见张瑛瑛资料&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;三插值与拟合模型&#34;&gt;三、插值与拟合模型&lt;/h3&gt;
+&lt;p&gt;。。。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;四回归分析模型&#34;&gt;四、回归分析模型&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;回归：是一种统计分析方法，用于预测一个连续变量与一个或多个其他变量之间的关系。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;线性回归：是回归分析的一种，假设因变量与自变量之间存在线性关系，即因变量与自变量的关系可以用一条直线来描述。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;非线性回归：是回归分析的一种，假设因变量与自变量之间不存在线性关系，即因变量与自变量的关系不能用一条直线来描述，需要用更复杂的函数模型来描述。&lt;/p&gt;
+&lt;p&gt;一元线性回归模型：$ y = \beta_0 + \beta_1 x$ &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;$$\color{red}\begin{cases} 斜率 \beta_1：\frac{\sum_{i=1}^n x_i y_i - n \bar{x} \bar{y}}{\sum_{i=1}^n x_i^2 - n \bar{x}^2} \\ 截距 \beta_0：\bar{y} - \beta_1 \bar{x}\end{cases}$$&lt;/p&gt;
+&lt;p&gt;检验方法：课本是&lt;strong&gt;假设检验&lt;/strong&gt;判断是否为线性，真题没有考&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;五差分方程&#34;&gt;五、差分方程&lt;/h3&gt;
+&lt;p&gt;差分:$\Delta y_{x} = y_{x+1} - y_{x}$&lt;/p&gt;
+&lt;p&gt;二阶差分：$\Delta {\Delta y_{x}} = \Delta^2 y_{x} = y_{x+2} - 2y_{x+1} +y_{x}$&lt;/p&gt;
+&lt;p&gt;一阶线性差分方程的一般形式为：$ y_{x+1} = ay_x + f(x)$&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;齐次方程：&lt;/strong&gt;
-如果 $f(x) = 0$，方程变为齐次方程：
-$ y_{x+1} = ay_x $
+如果 $f(x) = 0$，方程变为齐次方程：$ y_{x+1} = ay_x $ &lt;br&gt;
 其解为：&lt;br&gt;
-$ \color{red}{y_x = C a^x} $&lt;/p&gt;
+$$ \color{red}{y_x = C a^x} $$&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;非齐次方程：&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;如果 $f(x) = b$：&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;递推得：&lt;/p&gt;
-&lt;p&gt;$$ \color{red}{f(n) = \begin{cases} bx+c &amp;amp; \text{如果 } a = 1 \\frac{b}{1-a}+C\cdot a^x &amp;amp; \text{如果 } a \neq 1 \end{cases}}$$&lt;/p&gt;
+&lt;p&gt;递推得其解为：&lt;/p&gt;
+&lt;p&gt;$$ \color{red}{f(n) = \begin{cases} bx+c &amp;amp; \text{, } a = 1 \\ \frac{b}{1-a}+C\cdot a^x &amp;amp; \text{, } a \neq 1 \end{cases}}$$&lt;/p&gt;
+&lt;br&gt;
 &lt;ul&gt;
 &lt;li&gt;如果 $f(x) = (a_0 + a_1x + \cdots + a_nx^n)b^x$&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;其解为：&lt;/p&gt;
-&lt;p&gt;$y_x^* = x^k((a_0 + a_1x + \cdots + a_nx^n)b^x)$&lt;/p&gt;
+&lt;p&gt;其特解为(记得还要加通解也就是对应齐次方程的解)：&lt;/p&gt;
+&lt;p&gt;$$\color{red}{y_x^* = x^k(A_0 + A_1x + \cdots + A_nx^n) \cdot b^x \\ 其中A根据f(x)多项式系数判断，k = \begin{cases} 0 &amp;amp; \text{, } a \neq b \\  1 &amp;amp; \text{, } a =b \end{cases}}$$&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
+&lt;p&gt;例题：某城市2020年汽车保有量32万辆，预计此后每年报废上一年的汽车保有量的6%，并且每年新增汽车数量相同。为保护城市环境，该城市计划到2035年汽车保有量不超过50万辆，那么每年新增汽车数量不应超过多少辆？（$（0.94)^{15} = 0.395$）&lt;/p&gt;
+&lt;p&gt;解：设第n年的汽车保有量为$a_n$，每年新增汽车数量为x。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;由题：$a_n = 0.94a_{n-1} + x$&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;其通解为：
+$a_n = C(0.94)^n + \frac{x}{1-0.94}$
+其中C是常数，需要根据初始条件确定&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;利用初始条件 $a_0 = 32$，我们可以求出C：
+$32 = C + \frac{x}{0.06}$
+$C = 32 - \frac{x}{0.06}$&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;即：
+$a_n = (32 - \frac{x}{0.06})(0.94)^n + \frac{x}{0.06}$&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;现在，需要满足15年后不超过50万辆的条件：
+$a_{15} ≤ 50$&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;代入n=15到刚刚的解：
+$(32 - \frac{x}{0.06})(0.94)^{15} + \frac{x}{0.06} ≤ 50$&lt;/p&gt;
+&lt;p&gt;得：$x≤ 3.71$万&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;六常微分方程模型&#34;&gt;六、常微分方程模型&lt;/h3&gt;
+&lt;p&gt;。。。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;七决策论模型&#34;&gt;七、决策论模型&lt;/h3&gt;
+&lt;p&gt;一般会根据乐观准则、悲观准则、折衷主义准则进行决策&lt;/p&gt;
+&lt;p&gt;过程其实很简单：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;先看列，乐观准则找每列最大值，悲观准则找每列最小值，折衷主义准则算出$（每列最大值）\cdot  \lambda +(每列最小值) \cdot (1-\lambda)$&lt;/li&gt;
+&lt;li&gt;找到后取最大值&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;例题: 某公司将推出一种新产品，有三种推广方案：让利销售 $(d_1)$，送货上门 $(d_2)$，不采取措施$(d_3)$。未来市场可能有畅销 $s_1$、一般$s_2$、滞销 $s_3$三种状态。假设事先不知道这三种自然状态的出现的概率，但知道各种状态下各方案的盈利，见表。请用以上介绍的3种决策方法进行决策（乐观系数 $\alpha = 0.6$）。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;市场状态&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;畅销 $s_1$&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;一般  $s_2$&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;滞销 $s_3$&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;方案&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;盈利&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;盈利&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;盈利&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;让利销售 $(d_1)$&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;60&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;-6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;送货上门 $(d_2)$&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;30&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;25&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;不采取措施 $(d_3)$&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;解：1、&lt;strong&gt;乐观法&lt;/strong&gt;:$ \underset{i}{max}\text{ }\underset{j}{max}{a_{ij}} $&lt;/p&gt;
+&lt;p&gt;$max {60, 10, -6} = 60 $&lt;br&gt;
+$max {30, 25, 0} = 30$&lt;br&gt;
+$max {10, 10, 10} = 10 $&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;$ \underset{i}{max}\text{ }\underset{j}{max}{a_{ij}} =60 $&lt;/p&gt;
+&lt;p&gt;对应的最优方案为 $(d_1)$。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;strong&gt;悲观法&lt;/strong&gt;:$ \underset{i}{max}\text{ }\underset{j}{min}{a_{ij}} $&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;$min {60, 10, -6} = -6 $&lt;br&gt;
+$min {30, 25, 0} = 0 $&lt;br&gt;
+$min {10, 10, 10} = 10 $&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;$ \underset{i}{max}\text{ }\underset{j}{min}{a_{ij}} =10$&lt;/p&gt;
+&lt;p&gt;对应的最优方案为 $(d_3)$。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;乐观系数法&lt;/strong&gt; $\alpha = 0.6$:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;$CV_1 = 0.6 \times 60 + 0.4 \times (-6) = 33.6 $&lt;br&gt;
+$CV_2 = 0.6 \times 30 + 0.4 \times 0 = 18 $&lt;br&gt;
+$CV_3 = 0.6 \times 10 + 0.4 \times 10 = 10 $&lt;br&gt;
+$\max {33.6, 18, 10} = 33.6 $&lt;/p&gt;
+&lt;p&gt;故最优方案为 $(d_1)$。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;八图和网络模型&#34;&gt;八、图和网络模型&lt;/h3&gt;
+&lt;h6 id=&#34;最短路径问题&#34;&gt;最短路径问题&lt;/h6&gt;
+&lt;p&gt;最短路径是把两点之间路径最短的问题，它只着眼于点与点之间的路径问题，并不关注整个图，也就意味着对一个节点运行算法的结果与另一个节点的结果之间没有多少关系。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dijkstra算法&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;步骤&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;初始化：设置起始顶点的距离为0，其他所有顶点的距离为无限大。起始顶点加入未处理顶点集合。&lt;/li&gt;
+&lt;li&gt;选择未处理顶点集合中距离起始顶点最近的顶点作为当前顶点。&lt;/li&gt;
+&lt;li&gt;更新当前顶点的邻居顶点的距离（如果通过当前顶点到达邻居顶点的路径更短，则更新邻居顶点的距离）。&lt;/li&gt;
+&lt;li&gt;将当前顶点标记为已处理，并从未处理顶点集合中移除。&lt;/li&gt;
+&lt;li&gt;重复步骤2-4，直到处理完所有顶点或目标顶点的距离不再更新。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h6 id=&#34;最小生成树问题&#34;&gt;最小生成树问题&lt;/h6&gt;
+&lt;p&gt;最小生成树是把连通的图的&lt;strong&gt;所有顶点&lt;/strong&gt;连起来路径之和最小的问题，即生成树总权值之和最小。即&lt;strong&gt;在一个连通的图里，如何去除图里的边，使得剩余的边仍能连接所有的节点，且这些边的权重之和最小&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kruskal算法&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;步骤
+&lt;ol&gt;
+&lt;li&gt;初始化一个空的生成树。&lt;/li&gt;
+&lt;li&gt;依次选择权重最小的边，如果这条边加入生成树后不形成环，则将其加入生成树。&lt;/li&gt;
+&lt;li&gt;重复步骤2，直到生成树包含图中的所有顶点。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;例题：找到6.33图的最小生成树&lt;img src=&#34;https://pic1.zhimg.com/80/v2-dfd9d074c48f5407291bd0ce91b1535c_1440w.png&#34; alt=&#34;例题2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;答案：&lt;img src=&#34;https://pica.zhimg.com/80/v2-e8be91fc7ec227ca59fc7ad81b06a52e_1440w.png&#34; alt=&#34;答案&#34;&gt;&lt;/p&gt;
 </description>
     </item>
       
