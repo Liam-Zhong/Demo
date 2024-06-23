@@ -6,7 +6,7 @@ comments = true
 
 #### 原文见[如何用 GitHub Pages + Hugo 搭建个人博客 · 小绵尾巴 (cuttontail.blog)](https://cuttontail.blog/blog/create-a-wesite-using-github-pages-and-hugo/)
 
-#### 整个过程均为Windows环境
+#### 整个过程基于Windows
 
 ----
 
@@ -23,7 +23,7 @@ comments = true
 
 1. 会[谷歌](https://google.com/)
 2. 有一个 [GitHub](https://github.com/)账号
-3. 有自己偏好的代码编辑器（我使用的是[Typora](https://typora.io/)）
+3. 有自己偏好的编辑器（我使用的是[Typora](https://typora.io/)）
 
 如果你满足以上条件**那就开始吧！**
 

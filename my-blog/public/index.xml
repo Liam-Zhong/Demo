@@ -8,9 +8,9 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh</language><copyright>Copyright © 2004–2024, Steve Francia and the lee.so; all rights reserved.</copyright><lastBuildDate>Sat, 22 Jun 2024 20:38:44 +0800</lastBuildDate>  
     <item>
       <title>方程</title>
-      <link>https://liam-zhong.github.io/post/%E6%96%B9%E7%A8%8B/</link>
+      <link>https://liam-zhong.github.io/post/equation/</link>
       <pubDate>Sat, 22 Jun 2024 20:38:44 +0800</pubDate>
-      <guid>https://liam-zhong.github.io/post/%E6%96%B9%E7%A8%8B/</guid>
+      <guid>https://liam-zhong.github.io/post/equation/</guid>
       <description>&lt;h2 id=&#34;差分方程&#34;&gt;差分方程&lt;/h2&gt;
 &lt;p&gt;一阶线性差分方程的一般形式为：
 $ y_{x+1} = ay_x + f(x)$&lt;/p&gt;
@@ -19,8 +19,8 @@ $ y_{x+1} = ay_x + f(x)$&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;齐次方程：&lt;/strong&gt;
 如果 $f(x) = 0$，方程变为齐次方程：
 $ y_{x+1} = ay_x $
-其解为：
-$ y_x = C a^x $&lt;/p&gt;
+其解为：&lt;br&gt;
+$ \color{red}{y_x = C a^x} $&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;非齐次方程：&lt;/strong&gt;&lt;/p&gt;
@@ -28,7 +28,7 @@ $ y_x = C a^x $&lt;/p&gt;
 &lt;li&gt;如果 $f(x) = b$：&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;递推得：&lt;/p&gt;
-&lt;p&gt;$$f(n) = \begin{cases} bx+c &amp;amp; \text{如果 } a = 1 \\frac{b}{1-a}+C\cdot a^x &amp;amp; \text{如果 } a \neq 1 \end{cases} $$&lt;/p&gt;
+&lt;p&gt;$$ \color{red}{f(n) = \begin{cases} bx+c &amp;amp; \text{如果 } a = 1 \\frac{b}{1-a}+C\cdot a^x &amp;amp; \text{如果 } a \neq 1 \end{cases}}$$&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;如果 $f(x) = (a_0 + a_1x + \cdots + a_nx^n)b^x$&lt;/li&gt;
 &lt;/ul&gt;
@@ -41,9 +41,9 @@ $ y_x = C a^x $&lt;/p&gt;
       
     <item>
       <title>谈情说爱</title>
-      <link>https://liam-zhong.github.io/post/%E8%B0%88%E6%83%85%E8%AF%B4%E7%88%B1/</link>
+      <link>https://liam-zhong.github.io/post/about-love/</link>
       <pubDate>Fri, 21 Jun 2024 22:28:38 +0800</pubDate>
-      <guid>https://liam-zhong.github.io/post/%E8%B0%88%E6%83%85%E8%AF%B4%E7%88%B1/</guid>
+      <guid>https://liam-zhong.github.io/post/about-love/</guid>
       <description>&lt;p&gt;题目写在这里的时候就注定这是一篇讨厌的抽象文章了，但是不要喷我，喷刘姐去。（事实上【狐狸和猫】那篇文章已经表达了我的看法。）&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;两不相欠&lt;br&gt;
@@ -115,9 +115,9 @@ $ y_x = C a^x $&lt;/p&gt;
       
     <item>
       <title>奶奶的</title>
-      <link>https://liam-zhong.github.io/post/%E5%A5%B6%E5%A5%B6%E7%9A%84/</link>
+      <link>https://liam-zhong.github.io/post/fxxk/</link>
       <pubDate>Fri, 21 Jun 2024 11:30:27 +0800</pubDate>
-      <guid>https://liam-zhong.github.io/post/%E5%A5%B6%E5%A5%B6%E7%9A%84/</guid>
+      <guid>https://liam-zhong.github.io/post/fxxk/</guid>
       <description>&lt;p&gt;这是习思也是奶奶的：&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;这个P事 没做过 再早一点 就爆破&lt;br&gt;
 我想我没听错 你说你bother我&lt;br&gt;
@@ -165,9 +165,9 @@ $ y_x = C a^x $&lt;/p&gt;
       
     <item>
       <title>南山夜雨</title>
-      <link>https://liam-zhong.github.io/post/%E5%8D%97%E5%B1%B1%E5%A4%9C%E9%9B%A8/</link>
+      <link>https://liam-zhong.github.io/post/simple-poem/</link>
       <pubDate>Thu, 20 Jun 2024 23:55:10 +0800</pubDate>
-      <guid>https://liam-zhong.github.io/post/%E5%8D%97%E5%B1%B1%E5%A4%9C%E9%9B%A8/</guid>
+      <guid>https://liam-zhong.github.io/post/simple-poem/</guid>
       <description>&lt;p&gt;东风游莲塘，灼灼入吾心。&lt;/p&gt;
 &lt;p&gt;愿为檐下霖，十旬长倾倾。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://picx.zhimg.com/80/v2-f1c237b1fef29259eddca5fd70feeccc_1440w.jpeg&#34; alt=&#34;lighting&#34;&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
@@ -255,9 +255,9 @@ $ y_x = C a^x $&lt;/p&gt;
       
     <item>
       <title>重庆市民钟先生遭歹猫袭击受伤 公众呼吁加强治安管理</title>
-      <link>https://liam-zhong.github.io/post/%E9%87%8D%E5%BA%86%E5%B8%82%E6%B0%91%E9%92%9F%E5%85%88%E7%94%9F%E9%81%AD%E6%AD%B9%E7%8C%AB%E8%A2%AD%E5%87%BB%E5%8F%97%E4%BC%A4-%E5%85%AC%E4%BC%97%E5%91%BC%E5%90%81%E5%8A%A0%E5%BC%BA%E6%B2%BB%E5%AE%89%E7%AE%A1%E7%90%86/</link>
+      <link>https://liam-zhong.github.io/post/funny-news/</link>
       <pubDate>Sat, 15 Jun 2024 12:49:27 +0800</pubDate>
-      <guid>https://liam-zhong.github.io/post/%E9%87%8D%E5%BA%86%E5%B8%82%E6%B0%91%E9%92%9F%E5%85%88%E7%94%9F%E9%81%AD%E6%AD%B9%E7%8C%AB%E8%A2%AD%E5%87%BB%E5%8F%97%E4%BC%A4-%E5%85%AC%E4%BC%97%E5%91%BC%E5%90%81%E5%8A%A0%E5%BC%BA%E6%B2%BB%E5%AE%89%E7%AE%A1%E7%90%86/</guid>
+      <guid>https://liam-zhong.github.io/post/funny-news/</guid>
       <description>&lt;p&gt;&lt;strong&gt;重庆，2024年6月15日&lt;/strong&gt; —— 今日中午，重庆市一名市民钟先生在回寝室途中遭遇歹猫袭击，不幸受伤流血，事发地点位于南岸区某大学附近。据目击者称，钟先生当时正帮助小猫，突然被这只歹猫拦住并攻击。&lt;/p&gt;
 &lt;p&gt;钟先生在袭击中指头部受伤，随即倒地，歹猫迅速逃离现场。路人见状立即拍下照片，并未报警。相关人员迅速赶到现场，将钟先生送往附近寝室进行救治。舍友表示，钟先生伤势较重，但暂无生命危险，目前正在接受进一步治疗和观察。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://picx.zhimg.com/80/v2-92ad0cfe9ef119cb670fcab4c3a4643a_1440w.jpeg&#34; alt=&#34;受伤图&#34;&gt;&lt;/p&gt;
@@ -273,9 +273,9 @@ $ y_x = C a^x $&lt;/p&gt;
       
     <item>
       <title>我的头发</title>
-      <link>https://liam-zhong.github.io/post/%E6%88%91%E7%9A%84%E5%A4%B4%E5%8F%91/</link>
+      <link>https://liam-zhong.github.io/post/my-hair/</link>
       <pubDate>Thu, 13 Jun 2024 22:48:27 +0800</pubDate>
-      <guid>https://liam-zhong.github.io/post/%E6%88%91%E7%9A%84%E5%A4%B4%E5%8F%91/</guid>
+      <guid>https://liam-zhong.github.io/post/my-hair/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://picx.zhimg.com/80/v2-9a95082a657cba35ce15049c5a7d0d3b_1440w.png&#34; alt=&#34;我的头发&#34;&gt;&lt;/p&gt;
 &lt;p&gt;莫名奇妙地变卷(._.`)&lt;/p&gt;
 </description>
@@ -283,9 +283,9 @@ $ y_x = C a^x $&lt;/p&gt;
       
     <item>
       <title>听歌系列之烦恼</title>
-      <link>https://liam-zhong.github.io/post/%E5%90%AC%E6%AD%8C%E7%B3%BB%E5%88%97%E4%B9%8B%E7%83%A6%E6%81%BC/</link>
+      <link>https://liam-zhong.github.io/post/songs_1/</link>
       <pubDate>Tue, 11 Jun 2024 19:48:42 +0800</pubDate>
-      <guid>https://liam-zhong.github.io/post/%E5%90%AC%E6%AD%8C%E7%B3%BB%E5%88%97%E4%B9%8B%E7%83%A6%E6%81%BC/</guid>
+      <guid>https://liam-zhong.github.io/post/songs_1/</guid>
       <description>&lt;p&gt;第一次听蛋堡是在罗大佑的春夏秋冬里。“过程”给我一个轻快悠扬朗朗上口的感觉，全然与之前（现在也是）对饶舌rap歌曲的厌恶不同。“小熊”的调调也非常吸引我的耳虫，早已是我的穿脑魔音了。&lt;/p&gt;
 &lt;p&gt;今天有点不开心，于是打开AM开始随机播放蛋堡的歌——&lt;/p&gt;
 &lt;blockquote&gt;
@@ -314,9 +314,9 @@ $ y_x = C a^x $&lt;/p&gt;
       
     <item>
       <title>粽子节快乐</title>
-      <link>https://liam-zhong.github.io/post/%E7%B2%BD%E5%AD%90%E8%8A%82%E5%BF%AB%E4%B9%90/</link>
+      <link>https://liam-zhong.github.io/post/happy-zongzi-festival/</link>
       <pubDate>Mon, 10 Jun 2024 10:20:58 +0800</pubDate>
-      <guid>https://liam-zhong.github.io/post/%E7%B2%BD%E5%AD%90%E8%8A%82%E5%BF%AB%E4%B9%90/</guid>
+      <guid>https://liam-zhong.github.io/post/happy-zongzi-festival/</guid>
       <description>&lt;p&gt;不记得哪个互联网人说的了，“我们几千号人每天就在研究怎么让人上瘾，你说你靠意志力战胜了我们App，这是有多看不起我们的专业水平？要是你只靠意志力就可以避免上瘾，那我们吃什么？”&lt;/p&gt;
 &lt;p&gt;让人上瘾东西太多了，大学生控制力远远不足以对抗，所以每天刷抖音、小红书（笑死我了，原文甚至没有你乎），关注的都是一些无关紧要的信息，什么谁又瘦了100斤，哪个明星又分手了哪个明星又有绯闻了blabla，看起来学到了很多，但其实都对当下的生活没什么帮助。&lt;/p&gt;
 &lt;p&gt;13年就有大学生意识到学历泛滥了，而大众是在19年20年才开始对“学历贬值”聊得热火朝天。&lt;/p&gt;
@@ -353,9 +353,9 @@ $ y_x = C a^x $&lt;/p&gt;
       
     <item>
       <title>购书一本</title>
-      <link>https://liam-zhong.github.io/post/%E8%B4%AD%E4%B9%A6%E4%B8%80%E6%9C%AC/</link>
+      <link>https://liam-zhong.github.io/post/a-book/</link>
       <pubDate>Sun, 09 Jun 2024 19:25:53 +0800</pubDate>
-      <guid>https://liam-zhong.github.io/post/%E8%B4%AD%E4%B9%A6%E4%B8%80%E6%9C%AC/</guid>
+      <guid>https://liam-zhong.github.io/post/a-book/</guid>
       <description>&lt;p&gt;今年以来兴趣都在钢笔那里，很久没有买书。&lt;/p&gt;
 &lt;p&gt;昨天在看钢笔时无意瞅到一本￥10的书，咋一看以为是盗版，不料是当当的拼多多官方店，细看还是人文社的，遂拿下。当当的快递一向很烂，我这本倒是很满意。对多多的印象也改观了。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://picx.zhimg.com/80/v2-d387f0b77f7a044cbdf037c76afe4a64_1440w.jpeg&#34; alt=&#34;book&#34;&gt;&lt;/p&gt;
@@ -364,9 +364,9 @@ $ y_x = C a^x $&lt;/p&gt;
       
     <item>
       <title>搯花</title>
-      <link>https://liam-zhong.github.io/post/%E6%90%AF%E8%8A%B1/</link>
+      <link>https://liam-zhong.github.io/post/tao-flower/</link>
       <pubDate>Thu, 06 Jun 2024 22:07:11 +0800</pubDate>
-      <guid>https://liam-zhong.github.io/post/%E6%90%AF%E8%8A%B1/</guid>
+      <guid>https://liam-zhong.github.io/post/tao-flower/</guid>
       <description>&lt;p&gt;怎么说呢。&lt;/p&gt;
 &lt;p&gt;布谷鸟的叫声越来越响亮悠扬，随着还有乌鸦、喜鹊跟着哼哼，路上有好些学长们在散步，想起 “早起的鸟儿有虫吃”，但是猫猫们也不吃虫子为啥起这么早呢……&lt;/p&gt;
 &lt;p&gt;外面很凉快，赶早八也不愿切换快步状态，晃晃悠悠的，慢慢享受着清凉的夏日早晨，比起白天三四十度的气温，还有炎炎烈日，这一片刻也显得很难得了。&lt;/p&gt;
@@ -472,9 +472,9 @@ $ y_x = C a^x $&lt;/p&gt;
       
     <item>
       <title>发电系列之图图呢</title>
-      <link>https://liam-zhong.github.io/post/%E5%8F%91%E7%94%B5%E7%B3%BB%E5%88%97%E4%B9%8B%E5%9B%BE%E5%9B%BE%E5%91%A2/</link>
+      <link>https://liam-zhong.github.io/post/crazy-life_1/</link>
       <pubDate>Mon, 03 Jun 2024 22:34:40 +0800</pubDate>
-      <guid>https://liam-zhong.github.io/post/%E5%8F%91%E7%94%B5%E7%B3%BB%E5%88%97%E4%B9%8B%E5%9B%BE%E5%9B%BE%E5%91%A2/</guid>
+      <guid>https://liam-zhong.github.io/post/crazy-life_1/</guid>
       <description>&lt;p&gt;难得周一课少，再说几句&lt;/p&gt;
 &lt;p&gt;一直用的知乎作为自己部落格的图床，优点是访问快，缺点就是bigger不高，不方便查看（当然主要原因是我没编辑html&amp;hellip;）于是今天想尝试更换为Github的,翻了几篇文章感觉为了这个东西牺牲访问速度不太划算，遂罢（建议加到未遂里）&lt;/p&gt;
 &lt;p&gt;好玩的是在教程的过程中看到有位自己网站的图都寄了，看来比起国内的审核，github更严？（知乎惊喜.jpg）&lt;img src=&#34;https://pic4.zhimg.com/80/v2-db0b7b35bc414a52f8c9cbec2d654677_1440w.webp&#34; alt=&#34;图图&#34;&gt;&lt;/p&gt;
@@ -515,9 +515,9 @@ $ y_x = C a^x $&lt;/p&gt;
       
     <item>
       <title>报告未遂</title>
-      <link>https://liam-zhong.github.io/post/%E6%8A%A5%E5%91%8A%E6%9C%AA%E9%81%82/</link>
+      <link>https://liam-zhong.github.io/post/attempted-work/</link>
       <pubDate>Mon, 03 Jun 2024 13:00:45 +0800</pubDate>
-      <guid>https://liam-zhong.github.io/post/%E6%8A%A5%E5%91%8A%E6%9C%AA%E9%81%82/</guid>
+      <guid>https://liam-zhong.github.io/post/attempted-work/</guid>
       <description>&lt;p&gt;大二下的所谓”大作业“来得特别多，至今天还有ml、数据挖掘、数据库*2（真是令人悲伤）没写，算上已经完成的数学建模，人工智能，可以说是&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;所有回忆对着我进攻&lt;/p&gt;
@@ -697,9 +697,9 @@ $ y_x = C a^x $&lt;/p&gt;
       
     <item>
       <title>狐狸和猫</title>
-      <link>https://liam-zhong.github.io/post/%E7%8B%90%E7%8B%B8%E5%92%8C%E7%8C%AB/</link>
+      <link>https://liam-zhong.github.io/post/fox-and-cat/</link>
       <pubDate>Fri, 31 May 2024 22:13:59 +0800</pubDate>
-      <guid>https://liam-zhong.github.io/post/%E7%8B%90%E7%8B%B8%E5%92%8C%E7%8C%AB/</guid>
+      <guid>https://liam-zhong.github.io/post/fox-and-cat/</guid>
       <description>&lt;p&gt;小猫说：&lt;/p&gt;
 &lt;p&gt;1.今日雨水。&lt;/p&gt;
 &lt;p&gt;可惜我小小的房间没有窗，听不到雨水落地时淅淅沥沥的声音。&lt;/p&gt;
@@ -748,9 +748,9 @@ $ y_x = C a^x $&lt;/p&gt;
       
     <item>
       <title>我们到底学到了什么？</title>
-      <link>https://liam-zhong.github.io/post/%E6%88%91%E4%BB%AC%E5%88%B0%E5%BA%95%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88/</link>
+      <link>https://liam-zhong.github.io/post/what-on-earth-have-we-learned/</link>
       <pubDate>Thu, 30 May 2024 11:39:25 +0800</pubDate>
-      <guid>https://liam-zhong.github.io/post/%E6%88%91%E4%BB%AC%E5%88%B0%E5%BA%95%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88/</guid>
+      <guid>https://liam-zhong.github.io/post/what-on-earth-have-we-learned/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/80/v2-8ebe5f7b265b9066904fc8d63ca75b8e_1440w.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;上图是妓院开设的课程表，落实的话我已经是一个熟练掌握高数线代概率论的讨厌花海的学生了。可事实上除了花海符合实际其余都只知名字怎么写而已。到底是怪老师没有讲清楚知识呢？还是怪我们自己没有好好学？还是怪这么课本身就不适合在我们学院开？其实学到ml还是可以知道这些知识运用很广泛，还是挺有用、挺有意思的，但是我们的课程根本不可能讲到那里去，课时太少，练习不够。由此我又想到本科阶段到底该学些什么；以我跟老师们的接触，他们大多都说该打好基础，我也赞同，但是我们开的这些课有没有达到这种目的呢？哪些课能显著体现计算机的基础？都是值得大家一起思考的问题。比如现在看ml就严重感觉到线代中矩阵的知识忘得差不多了，那才能让人感觉到什么叫基础，像我们所开过的数电、大物等课程有基础作用吗？似乎感觉有些偏了…… 反倒是语言课、数据结构这些课要好好深入学习学习，但是这些课我们又上好了吗？似乎也没有…… 我们的课程安排似乎是想让学生尽量多学些东西，但是顾了广度肯定会顾不上深度，这永远是一对矛盾，又是一个权重的问题。&lt;/p&gt;
 &lt;p&gt;拚命狂赶了两年（？），但是一点也不值得高兴……&lt;/p&gt;
@@ -759,9 +759,9 @@ $ y_x = C a^x $&lt;/p&gt;
       
     <item>
       <title>江阿姨</title>
-      <link>https://liam-zhong.github.io/post/%E6%B1%9F%E9%98%BF%E5%A7%A8/</link>
+      <link>https://liam-zhong.github.io/post/jiangjiang/</link>
       <pubDate>Sun, 26 May 2024 12:47:31 +0800</pubDate>
-      <guid>https://liam-zhong.github.io/post/%E6%B1%9F%E9%98%BF%E5%A7%A8/</guid>
+      <guid>https://liam-zhong.github.io/post/jiangjiang/</guid>
       <description>&lt;p style=&#34;text-indent: 2em;&#34;&gt;
     江阿姨要我写一篇文章纪念她，我觉得很好玩：一者从高中毕业以后没有再写过记人的文章（其实估计初中后就没写过了），二者人还在这却真真是两年的不相见，实在不知道要怎么开一个头，只好玩地乱写。因为一直觉得记不住的事情就是没有，加之自己的忘形确实太大，所以本文杜撰为主，记忆为辅。又这个时代没有离别，那就我重新造一个“她”来思念：
 &lt;/p&gt;
@@ -787,7 +787,7 @@ $ y_x = C a^x $&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;我认识的人认为她讲话不好听&lt;/p&gt;
-&lt;p&gt;这两点都难以证明。小林倒倾向与这样认为，因为这是生平第一次听见有人在他面前说&lt;/p&gt;
+&lt;p&gt;这两点都难以证明。小林倒倾向于这样认为，因为这是生平第一次听见有人在他面前说&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p style=&#34;text-align: center; font-style: italic;&#34;&gt;
@@ -815,11 +815,11 @@ $ y_x = C a^x $&lt;/p&gt;
       
     <item>
       <title>建站指北</title>
-      <link>https://liam-zhong.github.io/post/%E5%BB%BA%E7%AB%99%E6%8C%87%E5%8C%97/</link>
+      <link>https://liam-zhong.github.io/post/a-basic-guide-for-blogger/</link>
       <pubDate>Sun, 26 May 2024 11:20:57 +0800</pubDate>
-      <guid>https://liam-zhong.github.io/post/%E5%BB%BA%E7%AB%99%E6%8C%87%E5%8C%97/</guid>
+      <guid>https://liam-zhong.github.io/post/a-basic-guide-for-blogger/</guid>
       <description>&lt;h4 id=&#34;原文见如何用-github-pages--hugo-搭建个人博客--小绵尾巴-cuttontailbloghttpscuttontailblogblogcreate-a-wesite-using-github-pages-and-hugo&#34;&gt;原文见&lt;a href=&#34;https://cuttontail.blog/blog/create-a-wesite-using-github-pages-and-hugo/&#34;&gt;如何用 GitHub Pages + Hugo 搭建个人博客 · 小绵尾巴 (cuttontail.blog)&lt;/a&gt;&lt;/h4&gt;
-&lt;h4 id=&#34;整个过程均为windows环境&#34;&gt;整个过程均为Windows环境&lt;/h4&gt;
+&lt;h4 id=&#34;整个过程基于windows&#34;&gt;整个过程基于Windows&lt;/h4&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;0部落格&#34;&gt;0.部落格&lt;/h2&gt;
 &lt;p&gt;部落格是什么？为什么要建立它？&lt;/p&gt;
@@ -833,7 +833,7 @@ $ y_x = C a^x $&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;会&lt;a href=&#34;https://google.com/&#34;&gt;谷歌&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;有一个 &lt;a href=&#34;https://github.com/&#34;&gt;GitHub&lt;/a&gt;账号&lt;/li&gt;
-&lt;li&gt;有自己偏好的代码编辑器（我使用的是&lt;a href=&#34;https://typora.io/&#34;&gt;Typora&lt;/a&gt;）&lt;/li&gt;
+&lt;li&gt;有自己偏好的编辑器（我使用的是&lt;a href=&#34;https://typora.io/&#34;&gt;Typora&lt;/a&gt;）&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;如果你满足以上条件&lt;strong&gt;那就开始吧！&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;

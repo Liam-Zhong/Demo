@@ -14,8 +14,8 @@ $ y_{x+1} = ay_x + f(x)$
 1. **齐次方程：**
    如果 $f(x) = 0$，方程变为齐次方程：
    $ y_{x+1} = ay_x $
-   其解为：
-   $ y_x = C a^x $
+   其解为：<br>
+   $ \color{red}{y_x = C a^x} $
 
    
 
@@ -25,7 +25,7 @@ $ y_{x+1} = ay_x + f(x)$
 
    递推得：
 
-   $$f(n) = \begin{cases} bx+c & \text{如果 } a = 1 \\\frac{b}{1-a}+C\cdot a^x & \text{如果 } a \neq 1 \end{cases} $$
+   $$ \color{red}{f(n) = \begin{cases} bx+c & \text{如果 } a = 1 \\\frac{b}{1-a}+C\cdot a^x & \text{如果 } a \neq 1 \end{cases}}$$
 
    - 如果 $f(x) = (a_0 + a_1x + \cdots + a_nx^n)b^x$
 
