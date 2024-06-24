@@ -30,7 +30,7 @@ comments = false
 
 - 程云龙：好老师
 
-- [刘星](https://b23.tv/mz9muoW)：引路人,powerful
+- [刘星](https://b23.tv/mz9muoW)：引路人,Powerful
 
 - XX:对爱情的祛魅
 

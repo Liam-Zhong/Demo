@@ -6,7 +6,7 @@ comments = true
 
 #### 原文见[如何用 GitHub Pages + Hugo 搭建个人博客 · 小绵尾巴 (cuttontail.blog)](https://cuttontail.blog/blog/create-a-wesite-using-github-pages-and-hugo/)
 
-#### 整个过程基于Windows
+#### 整个过程基于Windows11电脑
 
 ----
 
@@ -21,9 +21,9 @@ comments = true
 
 这篇教程假设你已经：
 
-1. 会[谷歌](https://google.com/)
+1. 安装了 [Git](https://git-scm.com/)，并且了解基本的 Git 知识
 2. 有一个 [GitHub](https://github.com/)账号
-3. 有自己偏好的编辑器（我使用的是[Typora](https://typora.io/)）
+3. 有自己偏好的文本编辑器（我使用的是[Typora](https://typora.io/)）
 
 如果你满足以上条件**那就开始吧！**
 
@@ -61,7 +61,7 @@ comments = true
 
 1. 命名 **GitHub Pages** 仓库，这个仓库必须使用特殊的命名格式 `<username.github.io>`， `<username>` 是你自己的 GitHub 的用户名。
 2.  勾选 **Public**，设置为公开仓库。
-3.  勾选添加 **README** 文件，这会设置 `main` 分支为仓库的默认主分支，这在后面提交推送博客内容时很重要。
+3.  勾选添加 **README** 文件，这会设置 `main` 分支为仓库的默认主分支，在后面提交推送博客内容时很重要。
 
 ![创建name.github.io仓库](https://pic3.zhimg.com/80/v2-7f6ec7526783a49527733d1b6dbdb576_1440w.webp)
 
@@ -77,7 +77,7 @@ comments = true
 
 2. 克隆**博客源仓库**到项目文件夹，克隆时使用的 HTTPS 仓库链接在这里查看：
 
-   ![img](https://pic1.zhimg.com/80/v2-260acddc6e0acbb6187797cfcf726784_1440w.webp)
+   ![克隆博客源仓库到本地](https://pic1.zhimg.com/80/v2-260acddc6e0acbb6187797cfcf726784_1440w.webp)
 
    
 
@@ -114,7 +114,7 @@ comments = true
 
 1. 一般在你选择的 Hugo 主题的文档中，都会给出「如何安装这个主题」的命令，比如我选用的Paper的文档中给出：
 
-   ![img](https://pic1.zhimg.com/80/v2-92bff148a599f592c3fbad4e454cbaa4_1440w.webp)
+   ![如何安装主题](https://pic1.zhimg.com/80/v2-92bff148a599f592c3fbad4e454cbaa4_1440w.webp)
 
    
 
@@ -137,7 +137,7 @@ comments = true
 
    - 比如`exampleSite`下有`content`、`layouts`、`static`3 个文件，就找到你自己的站点跟目录下这对应的三个文件。再把对应目录中的内容分别复制过去。
 
-     ![img](https://pic2.zhimg.com/80/v2-8b33d3e652e6be714b1e2a0ad325f109_1440w.webp)
+     ![hugo文件结构](https://pic2.zhimg.com/80/v2-8b33d3e652e6be714b1e2a0ad325f109_1440w.webp)
      
    
 4. 其中在复制`config.toml`的内容时要注意：
@@ -169,7 +169,7 @@ hugo new xxx.md
 
 用这个命令创建的 Markdown 文件会套用 `archetypes` 文件夹中的 front matter 模版，在空白处用 Markdown 写入内容。
 
-![md](https://pic3.zhimg.com/80/v2-9c1f132b5e56f0fa698fb89f315f44ce_1440w.webp)
+![创建的文章](https://pic3.zhimg.com/80/v2-9c1f132b5e56f0fa698fb89f315f44ce_1440w.webp)
 
 `draft: true`代表这篇文章是一个草稿，Hugo 不会显示草稿，要在主页显示添加的文章，可以设置 `draft: false`；或者直接删掉这行。
 
@@ -183,7 +183,7 @@ hugo new xxx.md
    hugo server
    ```
    
-   ![img](https://pic3.zhimg.com/80/v2-5fede2c71c8b1e16d91230f7063ac6c2_1440w.webp)
+   ![hugo server命令](https://pic3.zhimg.com/80/v2-5fede2c71c8b1e16d91230f7063ac6c2_1440w.webp)
 
 2. 也可以在本地编辑 Markdown 文件时，通过 `hugo server` 来实时预览显示效果。
 
@@ -193,7 +193,7 @@ hugo new xxx.md
 
     运行成功后，可以在http://localhost:1313/中预览网站
 
-   ![img](https://pic2.zhimg.com/80/v2-b4d43a48f7e89b455c5be36cbc074891_1440w.webp)
+   ![预览页面](https://pic2.zhimg.com/80/v2-b4d43a48f7e89b455c5be36cbc074891_1440w.webp)
 
 ------
 
@@ -205,7 +205,7 @@ hugo new xxx.md
    hugo
    ```
    
-   ![img](https://pic3.zhimg.com/80/v2-f714d4d90fe506faa8de023546366626_1440w.webp)
+   ![hugo命令](https://pic3.zhimg.com/80/v2-f714d4d90fe506faa8de023546366626_1440w.webp)
 
 2. 因为`hugo` 生成的静态 HTML 网页文件默认存放在  `public` 文件中，所以推送网页内容只需要把  `public` 中的 HTML 网页文件发布到 GitHub Pages 仓库中。
 
@@ -220,7 +220,7 @@ hugo new xxx.md
    git init -b main
    ```
    
-   ![img](https://pic3.zhimg.com/80/v2-dc64e179de67231c963137d6ca2fb92e_1440w.webp)
+   ![初始化git命令](https://pic3.zhimg.com/80/v2-dc64e179de67231c963137d6ca2fb92e_1440w.webp)
 
 4. 将 `public` 文件夹关联远程 GitHub Pages 仓库，使用 GitHub Pages 仓库的 SSH 链接。
 
@@ -228,7 +228,7 @@ hugo new xxx.md
 
    - **GitHub Pages 仓库的 SSH 链接可以在这里查看：**
 
-     ![img](https://pic3.zhimg.com/80/v2-a23dd95817f28f6f662c6174db505c86_1440w.webp)
+     ![SSH链接](https://pic3.zhimg.com/80/v2-a23dd95817f28f6f662c6174db505c86_1440w.webp)
 
    
    ```shell
@@ -261,8 +261,13 @@ hugo new xxx.md
    git push
    ```
    
-   1. 打开 `public` 文件
-   2. 运行：
+   5. 打开 `public` 文件
+   
+   ```shell
+   cd public
+   ```
+   
+   6. 运行：
    
    ```shell
    git add .

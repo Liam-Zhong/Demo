@@ -63,14 +63,14 @@
   
   
   
-  <meta name="description" content="原文见如何用 GitHub Pages &#43; Hugo 搭建个人博客 · 小绵尾巴 (cuttontail.blog) 整个过程基于Windows 0.部落格 部落格是什么？为什么要建立它？
+  <meta name="description" content="原文见如何用 GitHub Pages &#43; Hugo 搭建个人博客 · 小绵尾巴 (cuttontail.blog) 整个过程基于Windows11电脑 0.部落格 部落格是什么？为什么要建立它？
 部落格（博客）是一种在线日记型式的个人网站，借由张帖子章、图片或影片来记录生活、抒发情感或分享信息。博客上的文章通常根据张贴时间，以倒序方式由新到旧排列。许多博客作者专注评论特定的课题或新闻，其他则作为个人日记。一个典型的博客结合了文字、图像、其他博客或网站的超链接、及其它与主题相关的媒体。能够让读者以互动的方式留下意见，是许多博客的重要要素。大部分的博客内容以文字为主，也有一些博客专注艺术、摄影、视频、音乐、播客等各种主题。博客是社会媒体网络的一部分。——维基百科
 一直认为一件事情如果你忘记了那么它就不存在。“记录”从古至今都是很有仪（niu）式（ben）感的事情：登高作赋，临泉赋诗，兰亭修序...甚至还要画张山水裱起来，聊以服人。如今人们爱用朋友圈（个人很鄙夷路上奔波之后的所谓“又是自由的一天”）记录生活也差不多是这个道理，只是依赖于微信总让人不舒服，因此自己搭一个部落格是一件很棒很酷的事情，否则怎么算会“上网”呢？本文便是出于这样的目的，争取让每个人都可以零基础搭建自己的部落格。这篇教程假设你已经：
-会谷歌 有一个 GitHub账号 有自己偏好的编辑器（我使用的是Typora） 如果你满足以上条件那就开始吧！
+安装了 Git，并且了解基本的 Git 知识 有一个 GitHub账号 有自己偏好的文本编辑器（我使用的是Typora） 如果你满足以上条件那就开始吧！
 1. 安装 Hugo 点击Release v0.126.1 · gohugoio/hugo (github.com)并下滑找到hugo_0.126.1_windows-amd64.zip，点击下载。(本文写于2024年5月26号，你下载的时候版本可能已经更新) 把下载好的.zip文件解压，并放置在你想放的文件夹中（我的路径：D:\DevTools\Hugo，也就是说现在Hugo目录下有一个名为hugo_0.126.1_windows-amd64的文件夹），打开设置，搜索“编辑系统环境变量”，在弹出的“系统属性”窗口中点击“环境变量”，再在弹出的“环境变量”窗口的’系统变量“中选中 Path 路径，并点击编辑。通过右侧的“新建”按钮，将[D:\DevTools\Hugo\hugo_0.126.1_windows-amd64]添加到环境变量。（根据自己的路径修改）
 WIN&#43;D回到桌面，右键选择”在 Windows终端 中打开“。输入
 hugo version 一切正常的话会显示你目前安装的版本号。
-2. 创建 GitHub 仓库 2.1 创建博客源仓库 命名博客源仓库（我使用的是demo） 勾选 Public，设置为公开仓库。 勾选添加 README 文件 2.2 创建 GitHub Page 仓库 命名 GitHub Pages 仓库，这个仓库必须使用特殊的命名格式 &lt;username.github.io&gt;， &lt;username&gt; 是你自己的 GitHub 的用户名。 勾选 Public，设置为公开仓库。 勾选添加 README 文件，这会设置 main 分支为仓库的默认主分支，这在后面提交推送博客内容时很重要。 3." />
+2. 创建 GitHub 仓库 2.1 创建博客源仓库 命名博客源仓库（我使用的是demo） 勾选 Public，设置为公开仓库。 勾选添加 README 文件 2.2 创建 GitHub Page 仓库 命名 GitHub Pages 仓库，这个仓库必须使用特殊的命名格式 &lt;username.github.io&gt;， &lt;username&gt; 是你自己的 GitHub 的用户名。 勾选 Public，设置为公开仓库。 勾选添加 README 文件，这会设置 main 分支为仓库的默认主分支，在后面提交推送博客内容时很重要。 3." />
   <meta name="author" content="Liam" />
   
 
@@ -137,29 +137,29 @@ hugo version 一切正常的话会显示你目前安装的版本号。
   
   
   <meta itemprop="name" content="建站指北">
-  <meta itemprop="description" content="原文见如何用 GitHub Pages &#43; Hugo 搭建个人博客 · 小绵尾巴 (cuttontail.blog) 整个过程基于Windows 0.部落格 部落格是什么？为什么要建立它？
+  <meta itemprop="description" content="原文见如何用 GitHub Pages &#43; Hugo 搭建个人博客 · 小绵尾巴 (cuttontail.blog) 整个过程基于Windows11电脑 0.部落格 部落格是什么？为什么要建立它？
 部落格（博客）是一种在线日记型式的个人网站，借由张帖子章、图片或影片来记录生活、抒发情感或分享信息。博客上的文章通常根据张贴时间，以倒序方式由新到旧排列。许多博客作者专注评论特定的课题或新闻，其他则作为个人日记。一个典型的博客结合了文字、图像、其他博客或网站的超链接、及其它与主题相关的媒体。能够让读者以互动的方式留下意见，是许多博客的重要要素。大部分的博客内容以文字为主，也有一些博客专注艺术、摄影、视频、音乐、播客等各种主题。博客是社会媒体网络的一部分。——维基百科
 一直认为一件事情如果你忘记了那么它就不存在。“记录”从古至今都是很有仪（niu）式（ben）感的事情：登高作赋，临泉赋诗，兰亭修序...甚至还要画张山水裱起来，聊以服人。如今人们爱用朋友圈（个人很鄙夷路上奔波之后的所谓“又是自由的一天”）记录生活也差不多是这个道理，只是依赖于微信总让人不舒服，因此自己搭一个部落格是一件很棒很酷的事情，否则怎么算会“上网”呢？本文便是出于这样的目的，争取让每个人都可以零基础搭建自己的部落格。这篇教程假设你已经：
-会谷歌 有一个 GitHub账号 有自己偏好的编辑器（我使用的是Typora） 如果你满足以上条件那就开始吧！
+安装了 Git，并且了解基本的 Git 知识 有一个 GitHub账号 有自己偏好的文本编辑器（我使用的是Typora） 如果你满足以上条件那就开始吧！
 1. 安装 Hugo 点击Release v0.126.1 · gohugoio/hugo (github.com)并下滑找到hugo_0.126.1_windows-amd64.zip，点击下载。(本文写于2024年5月26号，你下载的时候版本可能已经更新) 把下载好的.zip文件解压，并放置在你想放的文件夹中（我的路径：D:\DevTools\Hugo，也就是说现在Hugo目录下有一个名为hugo_0.126.1_windows-amd64的文件夹），打开设置，搜索“编辑系统环境变量”，在弹出的“系统属性”窗口中点击“环境变量”，再在弹出的“环境变量”窗口的’系统变量“中选中 Path 路径，并点击编辑。通过右侧的“新建”按钮，将[D:\DevTools\Hugo\hugo_0.126.1_windows-amd64]添加到环境变量。（根据自己的路径修改）
 WIN&#43;D回到桌面，右键选择”在 Windows终端 中打开“。输入
 hugo version 一切正常的话会显示你目前安装的版本号。
-2. 创建 GitHub 仓库 2.1 创建博客源仓库 命名博客源仓库（我使用的是demo） 勾选 Public，设置为公开仓库。 勾选添加 README 文件 2.2 创建 GitHub Page 仓库 命名 GitHub Pages 仓库，这个仓库必须使用特殊的命名格式 &lt;username.github.io&gt;， &lt;username&gt; 是你自己的 GitHub 的用户名。 勾选 Public，设置为公开仓库。 勾选添加 README 文件，这会设置 main 分支为仓库的默认主分支，这在后面提交推送博客内容时很重要。 3.">
+2. 创建 GitHub 仓库 2.1 创建博客源仓库 命名博客源仓库（我使用的是demo） 勾选 Public，设置为公开仓库。 勾选添加 README 文件 2.2 创建 GitHub Page 仓库 命名 GitHub Pages 仓库，这个仓库必须使用特殊的命名格式 &lt;username.github.io&gt;， &lt;username&gt; 是你自己的 GitHub 的用户名。 勾选 Public，设置为公开仓库。 勾选添加 README 文件，这会设置 main 分支为仓库的默认主分支，在后面提交推送博客内容时很重要。 3.">
   <meta itemprop="datePublished" content="2024-05-26T11:20:57+08:00">
   <meta itemprop="dateModified" content="2024-05-26T11:20:57+08:00">
-  <meta itemprop="wordCount" content="388">
+  <meta itemprop="wordCount" content="393">
   
   <meta property="og:url" content="https://liam-zhong.github.io/post/a-basic-guide-for-blogger/">
   <meta property="og:site_name" content="承霖的部落格">
   <meta property="og:title" content="建站指北">
-  <meta property="og:description" content="原文见如何用 GitHub Pages &#43; Hugo 搭建个人博客 · 小绵尾巴 (cuttontail.blog) 整个过程基于Windows 0.部落格 部落格是什么？为什么要建立它？
+  <meta property="og:description" content="原文见如何用 GitHub Pages &#43; Hugo 搭建个人博客 · 小绵尾巴 (cuttontail.blog) 整个过程基于Windows11电脑 0.部落格 部落格是什么？为什么要建立它？
 部落格（博客）是一种在线日记型式的个人网站，借由张帖子章、图片或影片来记录生活、抒发情感或分享信息。博客上的文章通常根据张贴时间，以倒序方式由新到旧排列。许多博客作者专注评论特定的课题或新闻，其他则作为个人日记。一个典型的博客结合了文字、图像、其他博客或网站的超链接、及其它与主题相关的媒体。能够让读者以互动的方式留下意见，是许多博客的重要要素。大部分的博客内容以文字为主，也有一些博客专注艺术、摄影、视频、音乐、播客等各种主题。博客是社会媒体网络的一部分。——维基百科
 一直认为一件事情如果你忘记了那么它就不存在。“记录”从古至今都是很有仪（niu）式（ben）感的事情：登高作赋，临泉赋诗，兰亭修序...甚至还要画张山水裱起来，聊以服人。如今人们爱用朋友圈（个人很鄙夷路上奔波之后的所谓“又是自由的一天”）记录生活也差不多是这个道理，只是依赖于微信总让人不舒服，因此自己搭一个部落格是一件很棒很酷的事情，否则怎么算会“上网”呢？本文便是出于这样的目的，争取让每个人都可以零基础搭建自己的部落格。这篇教程假设你已经：
-会谷歌 有一个 GitHub账号 有自己偏好的编辑器（我使用的是Typora） 如果你满足以上条件那就开始吧！
+安装了 Git，并且了解基本的 Git 知识 有一个 GitHub账号 有自己偏好的文本编辑器（我使用的是Typora） 如果你满足以上条件那就开始吧！
 1. 安装 Hugo 点击Release v0.126.1 · gohugoio/hugo (github.com)并下滑找到hugo_0.126.1_windows-amd64.zip，点击下载。(本文写于2024年5月26号，你下载的时候版本可能已经更新) 把下载好的.zip文件解压，并放置在你想放的文件夹中（我的路径：D:\DevTools\Hugo，也就是说现在Hugo目录下有一个名为hugo_0.126.1_windows-amd64的文件夹），打开设置，搜索“编辑系统环境变量”，在弹出的“系统属性”窗口中点击“环境变量”，再在弹出的“环境变量”窗口的’系统变量“中选中 Path 路径，并点击编辑。通过右侧的“新建”按钮，将[D:\DevTools\Hugo\hugo_0.126.1_windows-amd64]添加到环境变量。（根据自己的路径修改）
 WIN&#43;D回到桌面，右键选择”在 Windows终端 中打开“。输入
 hugo version 一切正常的话会显示你目前安装的版本号。
-2. 创建 GitHub 仓库 2.1 创建博客源仓库 命名博客源仓库（我使用的是demo） 勾选 Public，设置为公开仓库。 勾选添加 README 文件 2.2 创建 GitHub Page 仓库 命名 GitHub Pages 仓库，这个仓库必须使用特殊的命名格式 &lt;username.github.io&gt;， &lt;username&gt; 是你自己的 GitHub 的用户名。 勾选 Public，设置为公开仓库。 勾选添加 README 文件，这会设置 main 分支为仓库的默认主分支，这在后面提交推送博客内容时很重要。 3.">
+2. 创建 GitHub 仓库 2.1 创建博客源仓库 命名博客源仓库（我使用的是demo） 勾选 Public，设置为公开仓库。 勾选添加 README 文件 2.2 创建 GitHub Page 仓库 命名 GitHub Pages 仓库，这个仓库必须使用特殊的命名格式 &lt;username.github.io&gt;， &lt;username&gt; 是你自己的 GitHub 的用户名。 勾选 Public，设置为公开仓库。 勾选添加 README 文件，这会设置 main 分支为仓库的默认主分支，在后面提交推送博客内容时很重要。 3.">
   <meta property="og:locale" content="zh">
   <meta property="og:type" content="article">
     <meta property="article:section" content="post">
@@ -170,14 +170,14 @@ hugo version 一切正常的话会显示你目前安装的版本号。
   
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="建站指北">
-  <meta name="twitter:description" content="原文见如何用 GitHub Pages &#43; Hugo 搭建个人博客 · 小绵尾巴 (cuttontail.blog) 整个过程基于Windows 0.部落格 部落格是什么？为什么要建立它？
+  <meta name="twitter:description" content="原文见如何用 GitHub Pages &#43; Hugo 搭建个人博客 · 小绵尾巴 (cuttontail.blog) 整个过程基于Windows11电脑 0.部落格 部落格是什么？为什么要建立它？
 部落格（博客）是一种在线日记型式的个人网站，借由张帖子章、图片或影片来记录生活、抒发情感或分享信息。博客上的文章通常根据张贴时间，以倒序方式由新到旧排列。许多博客作者专注评论特定的课题或新闻，其他则作为个人日记。一个典型的博客结合了文字、图像、其他博客或网站的超链接、及其它与主题相关的媒体。能够让读者以互动的方式留下意见，是许多博客的重要要素。大部分的博客内容以文字为主，也有一些博客专注艺术、摄影、视频、音乐、播客等各种主题。博客是社会媒体网络的一部分。——维基百科
 一直认为一件事情如果你忘记了那么它就不存在。“记录”从古至今都是很有仪（niu）式（ben）感的事情：登高作赋，临泉赋诗，兰亭修序...甚至还要画张山水裱起来，聊以服人。如今人们爱用朋友圈（个人很鄙夷路上奔波之后的所谓“又是自由的一天”）记录生活也差不多是这个道理，只是依赖于微信总让人不舒服，因此自己搭一个部落格是一件很棒很酷的事情，否则怎么算会“上网”呢？本文便是出于这样的目的，争取让每个人都可以零基础搭建自己的部落格。这篇教程假设你已经：
-会谷歌 有一个 GitHub账号 有自己偏好的编辑器（我使用的是Typora） 如果你满足以上条件那就开始吧！
+安装了 Git，并且了解基本的 Git 知识 有一个 GitHub账号 有自己偏好的文本编辑器（我使用的是Typora） 如果你满足以上条件那就开始吧！
 1. 安装 Hugo 点击Release v0.126.1 · gohugoio/hugo (github.com)并下滑找到hugo_0.126.1_windows-amd64.zip，点击下载。(本文写于2024年5月26号，你下载的时候版本可能已经更新) 把下载好的.zip文件解压，并放置在你想放的文件夹中（我的路径：D:\DevTools\Hugo，也就是说现在Hugo目录下有一个名为hugo_0.126.1_windows-amd64的文件夹），打开设置，搜索“编辑系统环境变量”，在弹出的“系统属性”窗口中点击“环境变量”，再在弹出的“环境变量”窗口的’系统变量“中选中 Path 路径，并点击编辑。通过右侧的“新建”按钮，将[D:\DevTools\Hugo\hugo_0.126.1_windows-amd64]添加到环境变量。（根据自己的路径修改）
 WIN&#43;D回到桌面，右键选择”在 Windows终端 中打开“。输入
 hugo version 一切正常的话会显示你目前安装的版本号。
-2. 创建 GitHub 仓库 2.1 创建博客源仓库 命名博客源仓库（我使用的是demo） 勾选 Public，设置为公开仓库。 勾选添加 README 文件 2.2 创建 GitHub Page 仓库 命名 GitHub Pages 仓库，这个仓库必须使用特殊的命名格式 &lt;username.github.io&gt;， &lt;username&gt; 是你自己的 GitHub 的用户名。 勾选 Public，设置为公开仓库。 勾选添加 README 文件，这会设置 main 分支为仓库的默认主分支，这在后面提交推送博客内容时很重要。 3.">
+2. 创建 GitHub 仓库 2.1 创建博客源仓库 命名博客源仓库（我使用的是demo） 勾选 Public，设置为公开仓库。 勾选添加 README 文件 2.2 创建 GitHub Page 仓库 命名 GitHub Pages 仓库，这个仓库必须使用特殊的命名格式 &lt;username.github.io&gt;， &lt;username&gt; 是你自己的 GitHub 的用户名。 勾选 Public，设置为公开仓库。 勾选添加 README 文件，这会设置 main 分支为仓库的默认主分支，在后面提交推送博客内容时很重要。 3.">
 
   
   
@@ -344,7 +344,7 @@ hugo version 一切正常的话会显示你目前安装的版本号。
   </header>
 
   <section><h4 id="原文见如何用-github-pages--hugo-搭建个人博客--小绵尾巴-cuttontailbloghttpscuttontailblogblogcreate-a-wesite-using-github-pages-and-hugo">原文见<a href="https://cuttontail.blog/blog/create-a-wesite-using-github-pages-and-hugo/">如何用 GitHub Pages + Hugo 搭建个人博客 · 小绵尾巴 (cuttontail.blog)</a></h4>
-<h4 id="整个过程基于windows">整个过程基于Windows</h4>
+<h4 id="整个过程基于windows11电脑">整个过程基于Windows11电脑</h4>
 <hr>
 <h2 id="0部落格">0.部落格</h2>
 <p>部落格是什么？为什么要建立它？</p>
@@ -356,9 +356,9 @@ hugo version 一切正常的话会显示你目前安装的版本号。
 </p>
 <p>这篇教程假设你已经：</p>
 <ol>
-<li>会<a href="https://google.com/">谷歌</a></li>
+<li>安装了 <a href="https://git-scm.com/">Git</a>，并且了解基本的 Git 知识</li>
 <li>有一个 <a href="https://github.com/">GitHub</a>账号</li>
-<li>有自己偏好的编辑器（我使用的是<a href="https://typora.io/">Typora</a>）</li>
+<li>有自己偏好的文本编辑器（我使用的是<a href="https://typora.io/">Typora</a>）</li>
 </ol>
 <p>如果你满足以上条件<strong>那就开始吧！</strong></p>
 <hr>
@@ -391,7 +391,7 @@ hugo version 一切正常的话会显示你目前安装的版本号。
 <ol>
 <li>命名 <strong>GitHub Pages</strong> 仓库，这个仓库必须使用特殊的命名格式 <code>&lt;username.github.io&gt;</code>， <code>&lt;username&gt;</code> 是你自己的 GitHub 的用户名。</li>
 <li>勾选 <strong>Public</strong>，设置为公开仓库。</li>
-<li>勾选添加 <strong>README</strong> 文件，这会设置 <code>main</code> 分支为仓库的默认主分支，这在后面提交推送博客内容时很重要。</li>
+<li>勾选添加 <strong>README</strong> 文件，这会设置 <code>main</code> 分支为仓库的默认主分支，在后面提交推送博客内容时很重要。</li>
 </ol>
 <p><img src="https://pic3.zhimg.com/80/v2-7f6ec7526783a49527733d1b6dbdb576_1440w.webp" alt="创建name.github.io仓库"></p>
 <hr>
@@ -403,7 +403,7 @@ hugo version 一切正常的话会显示你目前安装的版本号。
 </span></span></code></pre></div></li>
 <li>
 <p>克隆<strong>博客源仓库</strong>到项目文件夹，克隆时使用的 HTTPS 仓库链接在这里查看：</p>
-<p><img src="https://pic1.zhimg.com/80/v2-260acddc6e0acbb6187797cfcf726784_1440w.webp" alt="img"></p>
+<p><img src="https://pic1.zhimg.com/80/v2-260acddc6e0acbb6187797cfcf726784_1440w.webp" alt="克隆博客源仓库到本地"></p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>git clone https://github.com/Liam-Zhong/demo.git
 </span></span></code></pre></div></li>
 </ol>
@@ -427,7 +427,7 @@ hugo version 一切正常的话会显示你目前安装的版本号。
 <ol>
 <li>
 <p>一般在你选择的 Hugo 主题的文档中，都会给出「如何安装这个主题」的命令，比如我选用的Paper的文档中给出：</p>
-<p><img src="https://pic1.zhimg.com/80/v2-92bff148a599f592c3fbad4e454cbaa4_1440w.webp" alt="img"></p>
+<p><img src="https://pic1.zhimg.com/80/v2-92bff148a599f592c3fbad4e454cbaa4_1440w.webp" alt="如何安装主题"></p>
 </li>
 <li>
 <p>打开刚刚用 Hugo 创建的网站文件夹（我的是 my-blog），在终端(可以<code>cd my-blog</code>也可以在这个目录下直接右键并选择”在 Windows终端 中打开“ )粘贴文档中给出的安装命令。</p>
@@ -450,7 +450,7 @@ hugo version 一切正常的话会显示你目前安装的版本号。
 <ul>
 <li>
 <p>比如<code>exampleSite</code>下有<code>content</code>、<code>layouts</code>、<code>static</code>3 个文件，就找到你自己的站点跟目录下这对应的三个文件。再把对应目录中的内容分别复制过去。</p>
-<p><img src="https://pic2.zhimg.com/80/v2-8b33d3e652e6be714b1e2a0ad325f109_1440w.webp" alt="img"></p>
+<p><img src="https://pic2.zhimg.com/80/v2-8b33d3e652e6be714b1e2a0ad325f109_1440w.webp" alt="hugo文件结构"></p>
 </li>
 </ul>
 </li>
@@ -472,7 +472,7 @@ hugo version 一切正常的话会显示你目前安装的版本号。
 <p>用 Hugo 创建一篇文章的命令是:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>hugo new xxx.md
 </span></span></code></pre></div><p>用这个命令创建的 Markdown 文件会套用 <code>archetypes</code> 文件夹中的 front matter 模版，在空白处用 Markdown 写入内容。</p>
-<p><img src="https://pic3.zhimg.com/80/v2-9c1f132b5e56f0fa698fb89f315f44ce_1440w.webp" alt="md"></p>
+<p><img src="https://pic3.zhimg.com/80/v2-9c1f132b5e56f0fa698fb89f315f44ce_1440w.webp" alt="创建的文章"></p>
 <p><code>draft: true</code>代表这篇文章是一个草稿，Hugo 不会显示草稿，要在主页显示添加的文章，可以设置 <code>draft: false</code>；或者直接删掉这行。</p>
 <hr>
 <h2 id="7-本地调试和预览">7. 本地调试和预览</h2>
@@ -480,7 +480,7 @@ hugo version 一切正常的话会显示你目前安装的版本号。
 <li>
 <p>在发布到网站前可以在本地预览网站或内容的效果 ，运行命令：</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>hugo server
-</span></span></code></pre></div><p><img src="https://pic3.zhimg.com/80/v2-5fede2c71c8b1e16d91230f7063ac6c2_1440w.webp" alt="img"></p>
+</span></span></code></pre></div><p><img src="https://pic3.zhimg.com/80/v2-5fede2c71c8b1e16d91230f7063ac6c2_1440w.webp" alt="hugo server命令"></p>
 </li>
 <li>
 <p>也可以在本地编辑 Markdown 文件时，通过 <code>hugo server</code> 来实时预览显示效果。</p>
@@ -488,7 +488,7 @@ hugo version 一切正常的话会显示你目前安装的版本号。
 <li>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>hugo server
 </span></span></code></pre></div><p>运行成功后，可以在http://localhost:1313/中预览网站</p>
-<p><img src="https://pic2.zhimg.com/80/v2-b4d43a48f7e89b455c5be36cbc074891_1440w.webp" alt="img"></p>
+<p><img src="https://pic2.zhimg.com/80/v2-b4d43a48f7e89b455c5be36cbc074891_1440w.webp" alt="预览页面"></p>
 </li>
 </ol>
 <hr>
@@ -497,7 +497,7 @@ hugo version 一切正常的话会显示你目前安装的版本号。
 <li>
 <p><code>hugo</code> 命令可以将你写的 Markdown 文件生成静态 HTML 网页，生成的 HTML 文件默认存放在 <code>public</code> 中。</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>hugo
-</span></span></code></pre></div><p><img src="https://pic3.zhimg.com/80/v2-f714d4d90fe506faa8de023546366626_1440w.webp" alt="img"></p>
+</span></span></code></pre></div><p><img src="https://pic3.zhimg.com/80/v2-f714d4d90fe506faa8de023546366626_1440w.webp" alt="hugo命令"></p>
 </li>
 <li>
 <p>因为<code>hugo</code> 生成的静态 HTML 网页文件默认存放在  <code>public</code> 文件中，所以推送网页内容只需要把  <code>public</code> 中的 HTML 网页文件发布到 GitHub Pages 仓库中。</p>
@@ -511,7 +511,7 @@ hugo version 一切正常的话会显示你目前安装的版本号。
 </ul>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>cd public
 </span></span><span style="display:flex;"><span>git init -b main
-</span></span></code></pre></div><p><img src="https://pic3.zhimg.com/80/v2-dc64e179de67231c963137d6ca2fb92e_1440w.webp" alt="img"></p>
+</span></span></code></pre></div><p><img src="https://pic3.zhimg.com/80/v2-dc64e179de67231c963137d6ca2fb92e_1440w.webp" alt="初始化git命令"></p>
 </li>
 <li>
 <p>将 <code>public</code> 文件夹关联远程 GitHub Pages 仓库，使用 GitHub Pages 仓库的 SSH 链接。</p>
@@ -521,7 +521,7 @@ hugo version 一切正常的话会显示你目前安装的版本号。
 </li>
 <li>
 <p><strong>GitHub Pages 仓库的 SSH 链接可以在这里查看：</strong></p>
-<p><img src="https://pic3.zhimg.com/80/v2-a23dd95817f28f6f662c6174db505c86_1440w.webp" alt="img"></p>
+<p><img src="https://pic3.zhimg.com/80/v2-a23dd95817f28f6f662c6174db505c86_1440w.webp" alt="SSH链接"></p>
 </li>
 </ul>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>git remote add origin git@github.com:Liam-Zhong/Liam-Zhong.github.io.git
@@ -550,8 +550,11 @@ hugo version 一切正常的话会显示你目前安装的版本号。
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>git add .
 </span></span><span style="display:flex;"><span>git commit -m <span style="color:#e6db74">&#34;...(changes)&#34;</span>
 </span></span><span style="display:flex;"><span>git push
-</span></span></code></pre></div><ol>
+</span></span></code></pre></div><ol start="5">
 <li>打开 <code>public</code> 文件</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>cd public
+</span></span></code></pre></div><ol start="6">
 <li>运行：</li>
 </ol>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>git add .
