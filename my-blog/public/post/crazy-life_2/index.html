@@ -45,7 +45,7 @@
   style="--bg: #faf8f1"
   lang="zh"
 >
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta
@@ -54,7 +54,7 @@
   />
 
   
-  <title>承霖的部落格</title>
+  <title>请输入标题（最多100个字） - 承霖的部落格</title>
 
   
   <meta name="theme-color" />
@@ -63,11 +63,7 @@
   
   
   
-  
-  <meta
-    name="description"
-    content="A personal blog"
-  />
+  <meta name="description" content="( )是发展教育的根本尺度。 A.人民满意 B.发展生产力 C.科技突破 D.实现共同富裕 " />
   <meta name="author" content="Liam" />
   
 
@@ -77,14 +73,14 @@
   
   
   
-  <link rel="preload stylesheet" as="style" href="https://liam-zhong.github.io/main.min.css" />
+  <link rel="preload stylesheet" as="style" href="http://localhost:1313/main.min.css" />
 
   
   
   
   
   
-  <link rel="preload" as="image" href="https://liam-zhong.github.io/theme.png" />
+  <link rel="preload" as="image" href="http://localhost:1313/theme.png" />
 
   
   
@@ -96,62 +92,74 @@
 
   
   
-  <link rel="preload" as="image" href="https://liam-zhong.github.io/twitter.svg" />
+  <link rel="preload" as="image" href="http://localhost:1313/twitter.svg" />
   
-  <link rel="preload" as="image" href="https://liam-zhong.github.io/github.svg" />
+  <link rel="preload" as="image" href="http://localhost:1313/github.svg" />
   
-  <link rel="preload" as="image" href="https://liam-zhong.github.io/rss.svg" />
-  
-  
-
+  <link rel="preload" as="image" href="http://localhost:1313/rss.svg" />
   
   
 
   
   
+  <script
+    defer
+    src="http://localhost:1313/highlight.min.js"
+    onload="hljs.initHighlightingOnLoad();"
+  ></script>
   
 
   
-  <link rel="icon" href="https://liam-zhong.github.io/favicon.ico" />
-  <link rel="apple-touch-icon" href="https://liam-zhong.github.io/apple-touch-icon.png" />
+  
+  
+  
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/katex.min.css"
+  integrity="sha384-3UiQGuEI4TTMaFmGIZumfRPtfKQ3trwQE2JgosJxCnGmQpL/lJdjpcHkaaFwHlcI"
+  crossorigin="anonymous"
+/>
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/katex.min.js"
+  integrity="sha384-G0zcxDFp5LWZtDuRMnBkk3EphCK1lhEf4UEyEM693ka574TZGwo4IWwS6QLzM/2t"
+  crossorigin="anonymous"
+></script>
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/contrib/auto-render.min.js"
+  integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05"
+  crossorigin="anonymous"
+></script>
+
+
+<script>
+  document.addEventListener('DOMContentLoaded', () =>
+    renderMathInElement(document.body, {
+      
+      
+      delimiters: [
+        { left: '$$', right: '$$', display: true },
+        { left: '$', right: '$', display: false },
+      ],
+      
+      throwOnError: false,
+    }),
+  );
+</script>
+
+  
+  
+  
+
+  
+  <link rel="icon" href="http://localhost:1313/favicon.ico" />
+  <link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png" />
 
   
   <meta name="generator" content="Hugo 0.126.1">
 
   
-  
-  
-  
-  
-
-
-  
-  
-  <meta itemprop="name" content="承霖的部落格">
-  <meta itemprop="dateModified" content="2024-06-30T21:07:31+08:00">
-  
-  <meta property="og:url" content="https://liam-zhong.github.io/">
-  <meta property="og:site_name" content="承霖的部落格">
-  <meta property="og:title" content="承霖的部落格">
-  <meta property="og:locale" content="zh">
-  <meta property="og:type" content="website">
-
-  
-  
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="承霖的部落格">
-
-  
-  
-  <link
-    rel="alternate"
-    type="application/rss&#43;xml"
-    href="https://liam-zhong.github.io/index.xml"
-    title="承霖的部落格"
-  />
-  
-  
-  <link rel="canonical" href="https://liam-zhong.github.io/" />
   
   
 </head>
@@ -161,7 +169,7 @@
   <div class="relative z-50 mr-auto flex items-center">
     <a
       class="-translate-x-[1px] -translate-y-[1px] text-2xl font-semibold"
-      href="https://liam-zhong.github.io/"
+      href="http://localhost:1313/"
       >承霖的部落格</a
     >
     <div
@@ -278,7 +286,7 @@
       <a
         class="h-8 w-8 text-[0] [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
         style="--url: url(./rss.svg)"
-        href="https://liam-zhong.github.io/index.xml"
+        href="http://localhost:1313/index.xml"
         target="_blank"
         rel="alternate"
       >
@@ -296,84 +304,95 @@
     >
       
 
+<article>
+  <header class="mb-16">
+    <h1 class="!my-0 pb-2.5">请输入标题（最多100个字）</h1>
 
+    
+    <div class="text-sm antialiased opacity-60">
+      
+      <time>2024年6月29日</time>
+      
+      
+      
+      
+    </div>
+    
+  </header>
 
-
-
-
-
-
-
-
-
- 
-
-
-
-
-<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
-  
-  <h2 class="!my-0 pb-1 font-bold !leading-none">购书一本</h2>
-  <time class="text-sm antialiased opacity-60"
-    >2024年6月9日</time
-  >
-  <a class="absolute inset-0 text-[0]" href="https://liam-zhong.github.io/post/a-book/">购书一本</a>
+  <section><h4 id="-是发展教育的根本尺度">( )是发展教育的根本尺度。</h4>
+<ul>
+<li>A.人民满意</li>
+<li>B.发展生产力</li>
+<li>C.科技突破</li>
+<li>D.实现共同富裕</li>
+</ul>
 </section>
 
-
-
-
-
-<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
-  
-  <h2 class="!my-0 pb-1 font-bold !leading-none">搯花</h2>
-  <time class="text-sm antialiased opacity-60"
-    >2024年6月6日</time
-  >
-  <a class="absolute inset-0 text-[0]" href="https://liam-zhong.github.io/post/tao-flower/">搯花</a>
-</section>
-
-
-
-
-
-<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
-  
-  <h2 class="!my-0 pb-1 font-bold !leading-none">MInecraft</h2>
-  <time class="text-sm antialiased opacity-60"
-    >2024年6月5日</time
-  >
-  <a class="absolute inset-0 text-[0]" href="https://liam-zhong.github.io/post/minecraft/">MInecraft</a>
-</section>
-
-
-
-
-
-<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
-  
-  <h2 class="!my-0 pb-1 font-bold !leading-none">Soulsan</h2>
-  <time class="text-sm antialiased opacity-60"
-    >2024年6月4日</time
-  >
-  <a class="absolute inset-0 text-[0]" href="https://liam-zhong.github.io/post/soulsan/">Soulsan</a>
-</section>
-
-
-
-
-<nav class="mt-16 flex">
-  
-  <a class="btn" href="/page/4/">← 上一页</a>
   
   
-  <a class="btn ml-auto" href="/page/6/"
-    >下一页 →</a
-  >
+
   
-</nav>
+  
+  
+  
+  <nav class="mt-24 flex rounded-lg bg-black/[3%] text-lg dark:bg-white/[8%]">
+    
+    <a
+      class="flex w-1/2 items-center rounded-l-md p-6 pr-3 font-semibold no-underline hover:bg-black/[2%] dark:hover:bg-white/[3%]"
+      href="http://localhost:1313/post/eudemonia-02/"
+      ><span class="mr-1.5">←</span><span>Eudemonia - 来自天空的蓝领鸟儿是我的爱人</span></a
+    >
+    
+    
+    <a
+      class="ml-auto flex w-1/2 items-center justify-end rounded-r-md p-6 pl-3 font-semibold no-underline hover:bg-black/[2%] dark:hover:bg-white/[3%]"
+      href="http://localhost:1313/post/joker/"
+      ><span>DM💣</span><span class="ml-1.5">→</span></a
+    >
+    
+  </nav>
+  
+  
+
+  
+  
+
+  
+  
+
+  
 
 
+  
+</article>
+
+
+  <div id="cusdis_thread"
+  data-host="https://cusdis.com"
+  data-app-id="6c8fd496-b686-4bb1-aac6-8276c867aa7a"
+  data-page-id="/post/crazy-life_2/"
+  data-page-url="/post/crazy-life_2/"
+  data-page-title="请输入标题（最多100个字）"
+></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+
+<script>
+  window.CUSDIS_LOCALE = {
+    "powered_by": "评论由 Cusdis 提供",
+    "post_comment": "发送",
+    "loading": "加载中",
+    "email": "邮箱地址 (可选)",
+    "nickname": "昵称",
+    "reply_placeholder": "回复内容...",
+    "reply_btn": "回复",
+    "sending": "发送中...",
+    "mod_badge": "管理员",
+    "content_is_required": "内容不能为空",
+    "nickname_is_required": "昵称不能为空",
+    "comment_has_been_sent": "评论已发送，赵连硕审核通过后会展示"
+  }
+</script>
 
     </main>
 
@@ -382,7 +401,7 @@
 >
   <div class="mr-auto">
     &copy; 2024
-    <a class="link" href="https://liam-zhong.github.io/">承霖的部落格</a>
+    <a class="link" href="http://localhost:1313/">承霖的部落格</a>
   </div>
   <a class="link mx-6" href="https://gohugo.io/" rel="noopener" target="_blank"
     >Powered by Hugo️️</a
